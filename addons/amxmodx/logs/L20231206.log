@@ -375,3 +375,9 @@ L 12/06/2023 - 06:31:53: An error occurred in plugin_natives. This is dangerous!
 L 12/06/2023 - 06:31:54: [csdm_spawn_preset.amxx] Loaded 35 spawn points for map de_chateau.
 L 12/06/2023 - 06:31:54: [csdm_main.amxx] CSDM spawn mode set to preset
 L 12/06/2023 - 06:31:55: [admin.amxx] Login: "Ricky_Khats<46><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:49:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/06/2023 - 06:50:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 12/06/2023 - 06:52:07: -------- Mapchange to de_aztec --------
+L 12/06/2023 - 06:52:08: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 06:52:10: [csdm_spawn_preset.amxx] Loaded 34 spawn points for map de_aztec.
+L 12/06/2023 - 06:52:10: [csdm_main.amxx] CSDM spawn mode set to preset
