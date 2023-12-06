@@ -1,0 +1,29 @@
+L 03/14/2013 - 09:24:12: Log file started (file "logs\L0314000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 03/14/2013 - 09:24:12: Server cvar "mp_autokick" = "0"
+L 03/14/2013 - 09:24:12: Server cvar "mp_autoteambalance" = "0"
+L 03/14/2013 - 09:24:12: Server cvar "mp_flashlight" = "1"
+L 03/14/2013 - 09:24:12: Server cvar "mp_freezetime" = "0"
+L 03/14/2013 - 09:24:12: Server cvar "mp_limitteams" = "0"
+L 03/14/2013 - 09:24:12: Server cvar "mp_timelimit" = "20"
+L 03/14/2013 - 09:24:12: Server cvar "sv_aim" = "0"
+L 03/14/2013 - 09:24:12: Server cvar "sv_maxspeed" = "320"
+L 03/14/2013 - 09:24:12: Server cvar "sv_maxrate" = "25000"
+L 03/14/2013 - 09:24:12: Server cvar "sv_alltalk" = "1"
+L 03/14/2013 - 09:24:20: World triggered "Round_Start"
+L 03/14/2013 - 09:24:30: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 057D14A0
+L 03/14/2013 - 09:24:30: "XoXaH<1><STEAM_0:0:670348375><>" connected, address "46.181.130.173:27005"
+L 03/14/2013 - 09:24:41: "XoXaH<1><STEAM_0:0:670348375><>" entered the game
+L 03/14/2013 - 09:24:43: "XoXaH<1><STEAM_0:0:670348375><>" joined team "CT"
+L 03/14/2013 - 09:24:55: "XoXaH<1><STEAM_0:0:670348375><CT>" say "/drshop"
+L 03/14/2013 - 09:25:09: "XoXaH<1><STEAM_0:0:670348375><CT>" disconnected
+L 03/14/2013 - 09:25:09: World triggered "Round_Draw" (CT "0") (T "0")
+L 03/14/2013 - 09:25:09: World triggered "Round_End"
+L 03/14/2013 - 09:25:14: World triggered "Round_Start"
+L 03/14/2013 - 09:25:50: [META] ini: Begin re-reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 03/14/2013 - 09:25:50: [META] ini: Read plugin config for: AMX Mod X
+L 03/14/2013 - 09:25:50: [META] ini: Read plugin config for: dproto
+L 03/14/2013 - 09:25:50: [META] ini: Read plugin config for: mmtimer
+L 03/14/2013 - 09:25:50: [META] ini: Finished reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 03/14/2013 - 09:25:50: [META] dll: Updating plugins...
+L 03/14/2013 - 09:25:50: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 03/14/2013 - 09:25:50: Log file closed

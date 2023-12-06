@@ -1,0 +1,52 @@
+L 02/05/2013 - 21:38:19: -------- Mapchange to de_dust2 --------
+L 02/05/2013 - 21:38:22: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 02/05/2013 - 21:38:22: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 21:38:44: [admin.amxx] Login: "XoXaH<1><STEAM_0:0:670348375><>" became an admin (account "46.181.130.173") (access "abcdefghijklmnopqrstu") (address "46.181.130.173")
+L 02/05/2013 - 21:39:19: -------- Mapchange to de_dust2 --------
+L 02/05/2013 - 21:39:19: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 02/05/2013 - 21:39:19: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 21:39:20: [admin.amxx] Login: "XoXaH<1><STEAM_0:0:670348375><>" became an admin (account "46.181.130.173") (access "abcdefghijklmnopqrstu") (address "46.181.130.173")
+L 02/05/2013 - 21:49:26: -------- Mapchange to de_dust2 --------
+L 02/05/2013 - 21:49:26: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 02/05/2013 - 21:49:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 21:49:27: [admin.amxx] Login: "XoXaH<1><STEAM_0:0:670348375><>" became an admin (account "46.181.130.173") (access "abcdefghijklmnopqrstu") (address "46.181.130.173")
+L 02/05/2013 - 21:50:44: -------- Mapchange to de_dust2 --------
+L 02/05/2013 - 21:50:44: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 02/05/2013 - 21:50:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 21:50:56: [admin.amxx] Login: "XoXaH<2><STEAM_0:0:670348375><>" became an admin (account "46.181.130.173") (access "abcdefghijklmnopqrstu") (address "46.181.130.173")
+L 02/05/2013 - 21:53:16: -------- Mapchange to de_dust2 --------
+L 02/05/2013 - 21:53:16: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 02/05/2013 - 21:53:16: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 21:53:17: [admin.amxx] Login: "XoXaH<2><STEAM_0:0:670348375><>" became an admin (account "46.181.130.173") (access "abcdefghijklmnopqrstu") (address "46.181.130.173")
+L 02/05/2013 - 21:55:19: -------- Mapchange to de_dust2 --------
+L 02/05/2013 - 21:55:19: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 02/05/2013 - 21:55:19: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 21:55:20: [admin.amxx] Login: "XoXaH<2><STEAM_0:0:670348375><>" became an admin (account "46.181.130.173") (access "abcdefghijklmnopqrstu") (address "46.181.130.173")
+L 02/05/2013 - 22:13:19: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 02/05/2013 - 22:13:34: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 02/05/2013 - 22:15:28: -------- Mapchange to de_aztec --------
+L 02/05/2013 - 22:15:28: [csdm_spawn_preset.amxx] Loaded 34 spawn points for map de_aztec.
+L 02/05/2013 - 22:15:28: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 22:33:27: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 02/05/2013 - 22:33:42: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 02/05/2013 - 22:35:36: -------- Mapchange to de_cbble --------
+L 02/05/2013 - 22:35:37: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_cbble.
+L 02/05/2013 - 22:35:37: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 22:53:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 02/05/2013 - 22:53:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 02/05/2013 - 22:55:45: -------- Mapchange to de_dust --------
+L 02/05/2013 - 22:55:45: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 02/05/2013 - 22:55:45: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 23:13:44: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 02/05/2013 - 23:13:59: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 02/05/2013 - 23:15:54: -------- Mapchange to cs_assault --------
+L 02/05/2013 - 23:15:54: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_assault.
+L 02/05/2013 - 23:15:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 23:33:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 02/05/2013 - 23:34:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 02/05/2013 - 23:36:03: -------- Mapchange to de_train --------
+L 02/05/2013 - 23:36:03: [csdm_spawn_preset.amxx] Loaded 23 spawn points for map de_train.
+L 02/05/2013 - 23:36:03: [csdm_main.amxx] CSDM spawn mode set to preset
+L 02/05/2013 - 23:52:59: [admin.amxx] Login: "XoXaH<5><STEAM_0:0:670348375><>" became an admin (account "46.181.130.173") (access "abcdefghijklmnopqrstu") (address "46.181.130.173")
+L 02/05/2013 - 23:54:02: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 02/05/2013 - 23:54:17: [mapchooser.amxx] Vote: Voting for the nextmap finished. Map de_train will be extended to next 15 minutes

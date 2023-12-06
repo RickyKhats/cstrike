@@ -1,0 +1,44 @@
+L 01/26/2013 - 20:21:33: Log file started (file "logs\L0126008.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 01/26/2013 - 20:21:33: Server cvar "mp_autokick" = "0"
+L 01/26/2013 - 20:21:33: Server cvar "mp_autoteambalance" = "0"
+L 01/26/2013 - 20:21:33: Server cvar "mp_flashlight" = "1"
+L 01/26/2013 - 20:21:33: Server cvar "mp_freezetime" = "0"
+L 01/26/2013 - 20:21:33: Server cvar "mp_limitteams" = "0"
+L 01/26/2013 - 20:21:33: Server cvar "mp_timelimit" = "20"
+L 01/26/2013 - 20:21:33: Server cvar "sv_aim" = "0"
+L 01/26/2013 - 20:21:33: Server cvar "sv_maxspeed" = "320"
+L 01/26/2013 - 20:21:33: Server cvar "sv_maxrate" = "25000"
+L 01/26/2013 - 20:21:33: Server cvar "sv_alltalk" = "1"
+L 01/26/2013 - 20:21:41: World triggered "Round_Start"
+L 01/26/2013 - 20:21:41: ".<1><BOT><>" entered the game
+L 01/26/2013 - 20:21:41: ".<1><BOT><>" joined team "TERRORIST"
+L 01/26/2013 - 20:21:41: ":<2><BOT><>" entered the game
+L 01/26/2013 - 20:21:41: ":<2><BOT><>" joined team "CT"
+L 01/26/2013 - 20:22:06: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05B6B4B0
+L 01/26/2013 - 20:22:06: "LiKeee<3><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/26/2013 - 20:22:08: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05B6B4B0
+L 01/26/2013 - 20:22:08: "LiKeee<4><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/26/2013 - 20:22:14: "LiKeee<4><STEAM_0:0:1904474522><>" entered the game
+L 01/26/2013 - 20:22:16: "LiKeee<4><STEAM_0:0:1904474522><>" joined team "TERRORIST"
+L 01/26/2013 - 20:22:27: "LiKeee<4><STEAM_0:0:1904474522><TERRORIST>" say "/bindhelp"
+L 01/26/2013 - 20:26:41: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 01/26/2013 - 20:26:41: World triggered "Round_End"
+L 01/26/2013 - 20:26:46: World triggered "Round_Start"
+L 01/26/2013 - 20:27:56: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05B704B8
+L 01/26/2013 - 20:27:56: "[DA|{O][29]<5><STEAM_0:0:633910638><>" connected, address "95.58.51.158:27005"
+L 01/26/2013 - 20:28:21: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05B704B8
+L 01/26/2013 - 20:28:21: "[DA|{O][29]<6><STEAM_0:0:633910638><>" connected, address "95.58.51.158:27005"
+L 01/26/2013 - 20:28:44: "LiKeee<4><STEAM_0:0:1904474522><TERRORIST>" committed suicide with "world"
+L 01/26/2013 - 20:31:04: ".<1><BOT><TERRORIST>" disconnected
+L 01/26/2013 - 20:31:04: ":<2><BOT><CT>" disconnected
+L 01/26/2013 - 20:31:04: [META] ini: Begin re-reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 01/26/2013 - 20:31:04: [META] ini: Read plugin config for: AMX Mod X
+L 01/26/2013 - 20:31:04: [META] ini: Read plugin config for: dproto
+L 01/26/2013 - 20:31:04: [META] ini: Read plugin config for: mmtimer
+L 01/26/2013 - 20:31:04: [META] ini: Finished reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 01/26/2013 - 20:31:04: [META] dll: Updating plugins...
+L 01/26/2013 - 20:31:04: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/26/2013 - 20:31:04: "LiKeee<4><STEAM_0:0:1904474522><TERRORIST>" disconnected
+L 01/26/2013 - 20:31:04: World triggered "Round_Draw" (CT "1") (T "0")
+L 01/26/2013 - 20:31:04: World triggered "Round_End"
+L 01/26/2013 - 20:31:04: Log file closed

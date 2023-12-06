@@ -1,0 +1,373 @@
+/*
+Plugin URL: Перевод денег (Money Transfer)
+===========================================
+[ru]
+=================================
+---=== ОПИСАНИЕ ===---
+=================================
+ 
+Плагин позволяет передать свои деньги другому игроку. Вызывается меню с игроками посредством чат-команды /tm. Выбирается игрок, которому нужно передать деньги. Выбирается одно из пяти сумм, для передачи.
+Самая большая сумма не превышает сумму денег игрока, который передает их в данный момент. Последнее, шестое меню - ввод количества денег вручную.
+ 
+Опции меню с суммами для передачи высчитываются так. Если в настройках указано tm_menu 1 (динамическое меню), то первые 4 опции строятся в зависимости от текущего количества денег передающего игрока.
+ 
+Берется текущее значение денег игрока (скажем $800). Далее высчитывается некоторый коэффициент путём деления текущей суммы игрока ($800) на 1000 (определяется параметром BASE_MONEY_AMOUNT и строго рекомендуется этот параметр НЕ МЕНЯТЬ!).
+Округляем полученное число (0,8) в большую сторону (1). И далее строится меню путём умножения этого числа на 100, 200, 300 и 500 соответственно для каждой опции меню. Плюс добавляется опция передачи всей сумммы и плюс ввод вручную. Получаем (в нашем случае с $800):
+ 
+Player
+1. $100
+2. $200
+3. $300
+4. $500
+5. $800
+6. Ввести кол-во
+ 
+Аналогично для других сумм.
+ 
+Если же tm_menu 0. Тогда первые 4 опции меню будут статическими и будут определяться нижеописанными кварами. Их можно изменить в любой момент игры.
+ 
+Если же у игрока, который передаёт деньги в данный момент, денег меньше или равно $500 (определяется параметром MAX_CURRENT_MONEY и строго рекомендуется этот параметр НЕ МЕНЯТЬ!), то в таком случае формируется меню только из двух опций.
+А именно, текущее значение денег и ввод вручную.  Пример:
+ 
+У нас $499. Мы вызываем меню и посылаем игроку Player деньги:
+ 
+Player:
+1. $499
+2. Ввести кол-во
+ 
+Далее мы можем либо послать все наши $499 либо ввести вручную. Скажем $200 или $146 или $1. И т.п.
+ 
+=================================
+---=== СЕРВЕРНЫЕ НАСТРОЙКИ ===---
+=================================
+ 
+tm_menu (1|0) - Определяет, будет ли меню динамическим или нет. Это означает, будет ли меню для передачи денег строиться в зависимости от текущего значения денег передающего игрока или же оно будет статическим.
+Т.е. опции меню будут определены нижеописанными настройками. См. описание выше. По умолчанию: 1
+ 
+tm_menu_1 100 - Количество денег в первой опции меню. По умолчанию: 100
+ 
+tm_menu_2 200 - Количество денег во второй опции меню. По умолчанию: 200
+ 
+tm_menu_3 300 - Количество денег в третьей опции меню. По умолчанию: 300
+ 
+tm_menu_4 500 - Количество денег в пятой опции меню. По умолчанию: 500
+ 
+=================================
+---=== ТРЕБОВАНИЯ ===---
+=================================
+1. ДЛЯ КОМПИЛЯЦИИ ДАННОГО ПЛАГИНА скачайте chatcolor модуль и скопируйте его в /include. Если вы компилируете файл прямо с сайта, то можете пропустить этот шаг.
+ 
+Тема с Chatcolor: [INC] Цветной чат
+ 
+2. ДЛЯ РАБОТЫ ДАННОГО ПЛАГИНА нужно СКОМПИЛИРОВАТЬ файл colorchat.sma и закинуть СКОМПИЛИРОВАННЫЙ файл colorchat.amxx в директорию addons\amxmodx\plugins. Затем, прописать строку colorchat.amxx в файле addons\amxmodx\configs\plugins.ini
+И только потом уже прописать там же строку money_transfer.amxx.
+Файл инклюда (chatcolor.inc) в директорию с сервером кидать не нужно. Сервер не видит никогда никакие инклюды. Оны нужны ТОЛЬКО для компиляции .sma файлов!
+ 
+=================================
+ 
+P.S. Если плохо разбираетесь в скриптинге, лучше ничего не трогайте руками.
+ 
+[eng]
+If you want to compile it manually download Chatcolor module and copy it to your /include directory
+ 
+===========================================
+*/
+#include <amxmodx>
+#include <cstrike>
+#include <chatcolor>    // [INC] Цветной чат
+ 
+#define PLUGIN  "Money Transferer"
+#define VERSION "1.3"
+#define AUTHOR  "kalash1k"
+ 
+#define MAX_MONEY                       99999
+ 
+#define BASE_MONEY_AMOUNT       1000.0  // Need to be a float for calculations
+#define MAX_CURRENT_MONEY       500             // It's strongly recommended to not change these two values
+/*
+If you have $800 menus will be:
+1) $100 * floatround(your_current_money_amount / BASE_MONEY_AMOUNT)
+2) $200 * floatround(your_current_money_amount / BASE_MONEY_AMOUNT)
+3) $300 * floatround(your_current_money_amount / BASE_MONEY_AMOUNT)
+4) $500 * floatround(your_current_money_amount / BASE_MONEY_AMOUNT)
+5) your_current_money_amount ($800 in our case)
+6) "Type your own number"
+*/
+ 
+// CVARs
+new cvar_tm_menu, cvar_menu_1, cvar_menu_2, cvar_menu_3, cvar_menu_4
+ 
+new players_menu, money_menu, players[32], num, i
+new accessmenu, sName[64], callback
+new msg[128]
+ 
+new money_coef, money_amount
+ 
+public plugin_init()
+{
+        register_plugin(PLUGIN, VERSION, AUTHOR)
+       
+        register_clcmd("say /tm", "transfer_menu", ADMIN_ALL, "")       // TM - Transfer Money
+        register_clcmd("money", "transfer_menu", ADMIN_ALL, "")
+        register_clcmd("say /money", "transfer_menu", ADMIN_ALL, "")
+        register_clcmd("say_team /tm", "transfer_menu", ADMIN_ALL, "")
+        register_clcmd("say_team /transfer", "transfer_menu", ADMIN_ALL, "")
+        register_clcmd("say_team /money", "transfer_menu", ADMIN_ALL, "")
+       
+        register_clcmd("transfer", "transfer_money", ADMIN_ALL, "")     // Just for using messagemode
+       
+        cvar_tm_menu            =       register_cvar("tm_menu", "1")           // dynamic menu or not
+        cvar_menu_1                     =       register_cvar("tm_menu_1", "100")       // First value in menu
+        cvar_menu_2                     =       register_cvar("tm_menu_2", "200")       // Second value in menu
+        cvar_menu_3                     =       register_cvar("tm_menu_3", "300")       // Third value in menu
+        cvar_menu_4                     =       register_cvar("tm_menu_4", "500")       // Fourth value in menu
+}
+ 
+public transfer_menu(id)
+{
+        get_players(players, num, "h")
+       
+        if (num <= 1)
+        {
+                client_print_color(id, Red, "Некому передавать деньги")
+                return PLUGIN_HANDLED
+        }
+       
+        players_menu = menu_create("Игроки", "players_menu_handler")
+       
+        new tempname[32], info[10]
+       
+        for(i = 0; i < num; i++)
+        {
+                if(players[i] == id)
+                        continue
+               
+                get_user_name(players[i], tempname, 31)
+                num_to_str(players[i], info, 9)
+                menu_additem(players_menu, tempname, info, 0)
+        }
+       
+        menu_setprop(players_menu, MPROP_EXIT, MEXIT_ALL)
+        menu_setprop(players_menu, MPROP_EXITNAME, "Выход")
+        menu_setprop(players_menu, MPROP_BACKNAME, "Назад")
+        menu_setprop(players_menu, MPROP_NEXTNAME, "Далее")
+       
+        menu_display(id, players_menu, 0)
+        return PLUGIN_CONTINUE
+}
+ 
+public players_menu_handler(id, players_menu, item)
+{
+        if(item == MENU_EXIT)
+        {
+                menu_destroy(players_menu)
+                return PLUGIN_HANDLED
+        }
+       
+        new sData[6]    // target id
+       
+        menu_item_getinfo(players_menu, item, accessmenu, sData, 5, sName, 63, callback)
+       
+        money_menu = menu_create("Кол-во", "money_menu_handler")
+       
+        new user_money = cs_get_user_money(id)
+        new str[6]
+       
+        if(user_money > MAX_CURRENT_MONEY)
+        {
+                if(get_pcvar_num(cvar_tm_menu))
+                {
+                        money_coef = floatround(float(user_money) / BASE_MONEY_AMOUNT)
+                       
+                        for (new i = 1; i < 5; i++)
+                        {
+                                if(i == 4)
+                                        money_amount = 500 * money_coef
+                                else
+                                        money_amount = 100 * i * money_coef
+                               
+                                num_to_str(money_amount, str, 5)
+                                menu_additem(money_menu, str, sData, 0)
+                        }
+                }
+                else
+                {
+                        new cvar_str[16]
+                       
+                        get_pcvar_string(cvar_menu_1, cvar_str, charsmax(cvar_str))
+                        menu_additem(money_menu, cvar_str, sData, 0)
+                        get_pcvar_string(cvar_menu_2, cvar_str, charsmax(cvar_str))
+                        menu_additem(money_menu, cvar_str, sData, 0)
+                        get_pcvar_string(cvar_menu_3, cvar_str, charsmax(cvar_str))
+                        menu_additem(money_menu, cvar_str, sData, 0)
+                        get_pcvar_string(cvar_menu_4, cvar_str, charsmax(cvar_str))
+                        menu_additem(money_menu, cvar_str, sData, 0)
+                }
+        }
+       
+        num_to_str(user_money, str, 5)
+        menu_additem(money_menu, str, sData, 0)
+       
+        menu_additem(money_menu, "Ввести кол-во", sData, 0)
+       
+        menu_setprop(money_menu, MPROP_EXIT, MEXIT_ALL)
+        menu_setprop(money_menu, MPROP_EXITNAME, "Назад")
+       
+        menu_display(id, money_menu, 0)
+        return PLUGIN_CONTINUE
+}
+ 
+public money_menu_handler(id, money_menu, item)
+{
+        if(item == MENU_EXIT)
+        {
+                menu_destroy(money_menu)
+                menu_display(id, players_menu, 0)
+                return PLUGIN_CONTINUE
+        }
+       
+        new sData[6] //target id
+       
+        menu_item_getinfo(money_menu, item, accessmenu, sData, 5, sName, 63, callback)
+       
+        sData[0] = str_to_num(sData)
+       
+        new items = menu_items(money_menu)
+       
+        if(items < 5)
+        {
+                switch(item)
+                {
+                        case 0:
+                        {
+                                new iName = str_to_num(sName) // money amount
+                                formatex(msg, 127, "transfer %i %i", sData[0], iName)
+                        }
+                        case 1:
+                        {
+                                formatex(msg, 127, "messagemode ^"transfer %i^"", sData[0])
+                        }
+                }
+        }
+        else
+        {
+                switch(item)
+                {
+                        case 0:
+                        {
+                                new iName = str_to_num(sName) // money amount
+                                formatex(msg, 127, "transfer %i %i", sData[0], iName)
+                        }
+                        case 1:
+                        {
+                                new iName = str_to_num(sName)
+                                formatex(msg, 127, "transfer %i %i", sData[0], iName)
+                        }
+                        case 2:
+                        {
+                                new iName = str_to_num(sName)
+                                formatex(msg, 127, "transfer %i %i", sData[0], iName)
+                        }
+                        case 3:
+                        {
+                                new iName = str_to_num(sName)
+                                formatex(msg, 127, "transfer %i %i", sData[0], iName)
+                        }
+                        case 4:
+                        {
+                                new iName = str_to_num(sName)
+                                formatex(msg, 127, "transfer %i %i", sData[0], iName)
+                        }
+                        case 5:
+                                formatex(msg, 127, "messagemode ^"transfer %i^"", sData[0])
+                }
+        }
+       
+        client_cmd(id, msg)
+       
+        return PLUGIN_CONTINUE
+}
+ 
+public transfer_money(id)
+{
+        new param[6]
+       
+        read_argv(1, param, 5)
+       
+        new target = str_to_num(param)
+       
+        if(target == id)
+        {
+                client_print_color(id, Red, "Нельзя передать деньги самому себе")
+                return PLUGIN_HANDLED
+        }
+       
+        if(!is_user_connected(target))
+        {
+                client_print_color(id, Red, "Такого игрока нет на сервере")
+                return PLUGIN_HANDLED
+        }
+       
+        read_argv(2, param, 5)
+       
+        new p_len = strlen(param)
+       
+        for (new x; x < p_len; x++)
+        {
+                if(!isdigit(param[x]))
+                {
+                        client_print_color(id, Red, "Неверное число")
+                        return PLUGIN_HANDLED
+                }
+        }
+       
+        new amount = str_to_num(param)
+       
+        if(amount <= 0)
+        {
+                client_print_color(id, Red, "Неверное число")
+                return PLUGIN_HANDLED
+        }
+       
+        new user_money = cs_get_user_money(id)
+       
+        if (user_money < amount)
+        {
+                client_print_color(id, Red, "У вас не хватает денег")
+                return PLUGIN_HANDLED
+        }
+       
+        new target_money = cs_get_user_money(target)
+        new target_name[32]
+       
+        get_user_name(target, target_name, 31)
+       
+        if(target_money == MAX_MONEY)
+        {
+                client_print_color(id, Red, "У игрока ^4%s ^3уже ^4$%i", target_name, MAX_MONEY)
+                return PLUGIN_HANDLED
+        }
+       
+        new user_name[32]
+       
+        get_user_name(id, user_name, 31)
+       
+        new maxmoney = MAX_MONEY - target_money
+       
+        if(maxmoney >= amount)
+        {
+                cs_set_user_money(id, user_money - amount, 1)
+                cs_set_user_money(target, target_money + amount, 1)
+               
+                client_print_color(0, Blue, "^1Игрок ^3%s ^1передал ^4$%i ^3%s", user_name, amount, target_name)
+               
+                return PLUGIN_HANDLED
+        }
+       
+        cs_set_user_money(id, maxmoney, 1)
+        cs_set_user_money(target, MAX_MONEY, 1)
+       
+        client_print_color(0, Blue, "^1Игрок ^3%s ^1передал ^4$%i ^3%s", user_name, maxmoney, target_name)
+       
+        return PLUGIN_HANDLED
+}

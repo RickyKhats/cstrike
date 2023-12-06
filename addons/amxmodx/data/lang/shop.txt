@@ -1,0 +1,62 @@
+[en]
+SHOP_DEAD = You must be alive to use this!
+SHOP_DISABLED = The CS Shop is disabled!
+
+SHOP_CT_OFF = The Ct's Guns Menu are actually disabled!
+SHOP_T_OFF = The T's Guns Menu are actually disabled!
+SHOP_INVIS_OFF = The Invisibility Menu is actually disabled!
+SHOP_GRAV_OFF = The Gravity Menu is actually disabled!
+SHOP_HEALTH_OFF = The Health Menu is actually disabled!
+SHOP_SPEED_OFF = The Speed Menu is actually disabled!
+SHOP_SKINS_OFF = The Skins Menu is actually disabled!
+
+SHOP_ITEM_DISABLED = This item is actually disabled!
+SHOP_ITEM_MONEY = You don't have enough money!
+SHOP_ITEM_BUY = Have fun with your new %s!
+
+SHOP_SKINS_NOT = You must be a Counter-Terrorist to buy this!
+SHOP_SKINS_NOCT = You must be a Terrorist to buy this!
+
+SHOP_PRINT = Type /shop to buy some great items!
+
+[es]
+SHOP_DEAD = Tenes que estar vivo para usar esto!
+SHOP_DISABLED = El CS Shop esta desactivado!
+
+SHOP_CT_OFF = El Menu de Armas CT's esta actualmente desactivado!
+SHOP_T_OFF = El Menu de Armas T's esta actualmente desactivado!
+SHOP_INVIS_OFF = El Menu de Invisibilidad esta actualmente desactivado!
+SHOP_GRAV_OFF = El Menu de Gravedad esta actualmente desactivado!
+SHOP_HEALTH_OFF = El Menu de Vida esta actualmente desactivado!
+SHOP_SPEED_OFF = El Menu de Velocidad esta actualmente desactivado!
+SHOP_SKINS_OFF = El Menu de Skins esta actualmente desactivado!
+
+SHOP_ITEM_DISABLED = Este item esta actualmente desactivado!
+SHOP_ITEM_MONEY = No tienes suficiente dinero!
+SHOP_ITEM_BUY = Diviertete con tu nuevo %s!
+
+SHOP_SKINS_NOT = Tenes que ser un Counter-Terrorist para comprar esto!
+SHOP_SKINS_NOCT = Tenes que ser un Terrorist para comprar esto!
+
+SHOP_PRINT = Tipea /shop para comprar fabulosos items!
+
+[ru]
+SHOP_DEAD = Вы должны быть живы, чтобы использовать это!
+SHOP_DISABLED = CS Shop выключен!
+
+SHOP_CT_OFF = Меню оружия CT выключено
+SHOP_T_OFF = Меню оружия Т выключено
+SHOP_INVIS_OFF = Меню невидимости выключено
+SHOP_GRAV_OFF = Меню гравитации выключено
+SHOP_HEALTH_OFF = Меню здоровья выключено
+SHOP_SPEED_OFF = Меню скоростей выключено
+SHOP_SKINS_OFF = Меню скинов выключено
+
+SHOP_ITEM_DISABLED = Этот пункт выключен!
+SHOP_ITEM_MONEY = У вас не хватает денег!
+SHOP_ITEM_BUY = Удачи вам повеселиться с %s!
+
+SHOP_SKINS_NOT = Вы и так Террорист, зачем вам это?
+SHOP_SKINS_NOCT = Вы и так Контр-террорист, зачем вам это?
+
+SHOP_PRINT = Введите /shop чтобы купить что-нибудь!

@@ -1,0 +1,34 @@
+L 01/20/2013 - 12:24:00: Log file started (file "logs\L0120007.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 01/20/2013 - 12:24:00: Server cvar "mp_autokick" = "0"
+L 01/20/2013 - 12:24:00: Server cvar "mp_autoteambalance" = "0"
+L 01/20/2013 - 12:24:00: Server cvar "mp_flashlight" = "1"
+L 01/20/2013 - 12:24:00: Server cvar "mp_freezetime" = "0"
+L 01/20/2013 - 12:24:00: Server cvar "mp_limitteams" = "0"
+L 01/20/2013 - 12:24:00: Server cvar "mp_timelimit" = "20"
+L 01/20/2013 - 12:24:00: Server cvar "sv_aim" = "0"
+L 01/20/2013 - 12:24:00: Server cvar "sv_maxspeed" = "320"
+L 01/20/2013 - 12:24:00: Server cvar "sv_maxrate" = "25000"
+L 01/20/2013 - 12:24:00: Server cvar "sv_alltalk" = "1"
+L 01/20/2013 - 12:24:08: World triggered "Round_Start"
+L 01/20/2013 - 12:24:08: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05D314A0
+L 01/20/2013 - 12:24:08: "LiKeee<1><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/20/2013 - 12:24:40: "LiKeee<1><STEAM_0:0:1904474522><>" entered the game
+L 01/20/2013 - 12:24:42: "LiKeee<1><STEAM_0:0:1904474522><>" joined team "CT"
+L 01/20/2013 - 12:24:51: "LiKeee<1><STEAM_0:0:1904474522><CT>" say "/ak47"
+L 01/20/2013 - 12:26:30: "LiKeee<1><STEAM_0:0:1904474522><CT>" say "/ak47"
+L 01/20/2013 - 12:29:00: "LiKeee<1><STEAM_0:0:1904474522><CT>" disconnected
+L 01/20/2013 - 12:29:00: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/20/2013 - 12:29:00: World triggered "Round_End"
+L 01/20/2013 - 12:29:05: World triggered "Round_Start"
+L 01/20/2013 - 12:43:59: Team "CT" scored "0" with "0" players
+L 01/20/2013 - 12:43:59: Team "TERRORIST" scored "0" with "0" players
+L 01/20/2013 - 12:43:59: Server cvar "mp_chattime" = "12"
+L 01/20/2013 - 12:44:09: Server cvar "mp_chattime" = "10"
+L 01/20/2013 - 12:44:09: [META] ini: Begin re-reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 01/20/2013 - 12:44:09: [META] ini: Read plugin config for: AMX Mod X
+L 01/20/2013 - 12:44:09: [META] ini: Read plugin config for: dproto
+L 01/20/2013 - 12:44:09: [META] ini: Read plugin config for: mmtimer
+L 01/20/2013 - 12:44:09: [META] ini: Finished reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 01/20/2013 - 12:44:09: [META] dll: Updating plugins...
+L 01/20/2013 - 12:44:09: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/20/2013 - 12:44:09: Log file closed

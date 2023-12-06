@@ -1,0 +1,19 @@
+[ru]
+MENUTITLE = Забиндить кнопки?
+REPLYYES = Да
+REPLYNO = Нет
+REPLYVIEW = Посмотреть бинды
+BINDKEY = Клавиша
+BINDCOMM = Команда
+DESCRIPTION = Описание
+BINDANONCE = Для просмотра меню бинда клавиш напишите в чате /bindmenu
+
+[en]
+MENUTITLE = Забиндить кнопки?
+REPLYYES = Да
+REPLYNO = Нет
+REPLYVIEW = Посмотреть бинды
+BINDKEY = Клавиша
+BINDCOMM = Команда
+DESCRIPTION = Описание
+BINDANONCE = Для просмотра меню бинда клавиш напишите в чате /bindmenu

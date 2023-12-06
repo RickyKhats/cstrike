@@ -1,0 +1,45 @@
+[ro]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>What do I need to do?</div>
+<div>When you have a grenade in your hand you just press the right click : Trip laser Mode.</div>
+<div>After you have chosen a mode and you will throw the grenade you will notice that it's behaveor will change</div>
+<div><br \></div>
+<div>What does each mode do?</div>
+<div>1. Обычная</div>
+<div>- normal grenade, the one that everybody knows</div>
+<div>2. Мина </div>
+<div>- the grenade doesn't explode unless someone is near it</div>
+<div>3. Мнгновенная</div>
+<div>- the grenade blows when it touches something (like a wall or a player)</div>
+<div>4. Лазерная</div>
+<div>- the grenade attaches to something solid (like wall), after it will activate if a player will pass through it's laser then the grenade will explode</div>
+<div>5. Дистанционная граната</div>
+<div>- same with proximity, but the grenade explodes when the player has speed</div>
+<div>6. Тупость</div>
+<div>- the grenade explodes when you press the +use key. (default e)</font></div>
+
+:
+
+[ru]
+
+NADE_HTML :
+<body bgcolor=black><div><font face=Tahoma color=#ffb000>What do I need to do?</div>
+<div>When you have a grenade in your hand you just press the right click : Trip laser Mode.</div>
+<div>After you have chosen a mode and you will throw the grenade you will notice that it's behaveor will change</div>
+<div><br \></div>
+<div>What does each mode do?</div>
+<div>1. Обычная</div>
+<div>- normal grenade, the one that everybody knows</div>
+<div>2. Мина </div>
+<div>- the grenade doesn't explode unless someone is near it</div>
+<div>3. Мнгновенная</div>
+<div>- the grenade blows when it touches something (like a wall or a player)</div>
+<div>4. Лазерная</div>
+<div>- the grenade attaches to something solid (like wall), after it will activate if a player will pass through it's laser then the grenade will explode</div>
+<div>5. Дистанционная граната</div>
+<div>- same with proximity, but the grenade explodes when the player has speed</div>
+<div>6. Тупость</div>
+<div>- the grenade explodes when you press the +use key. (default e)</font></div>
+
+:

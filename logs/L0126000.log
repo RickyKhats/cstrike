@@ -1,0 +1,88 @@
+L 01/26/2013 - 18:06:41: Log file started (file "logs\L0126000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 01/26/2013 - 18:06:41: Server cvar "mp_autokick" = "0"
+L 01/26/2013 - 18:06:41: Server cvar "mp_autoteambalance" = "0"
+L 01/26/2013 - 18:06:41: Server cvar "mp_flashlight" = "1"
+L 01/26/2013 - 18:06:41: Server cvar "mp_freezetime" = "0"
+L 01/26/2013 - 18:06:41: Server cvar "mp_limitteams" = "0"
+L 01/26/2013 - 18:06:41: Server cvar "mp_timelimit" = "20"
+L 01/26/2013 - 18:06:41: Server cvar "sv_aim" = "0"
+L 01/26/2013 - 18:06:41: Server cvar "sv_maxspeed" = "320"
+L 01/26/2013 - 18:06:41: Server cvar "sv_maxrate" = "25000"
+L 01/26/2013 - 18:06:41: Server cvar "sv_alltalk" = "1"
+L 01/26/2013 - 18:06:49: World triggered "Round_Start"
+L 01/26/2013 - 18:06:49: ".<1><BOT><>" entered the game
+L 01/26/2013 - 18:06:49: ".<1><BOT><>" joined team "TERRORIST"
+L 01/26/2013 - 18:06:49: ":<2><BOT><>" entered the game
+L 01/26/2013 - 18:06:49: ":<2><BOT><>" joined team "CT"
+L 01/26/2013 - 18:07:00: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05ABB4B0
+L 01/26/2013 - 18:07:00: "Player<3><STEAM_0:0:913028420><>" connected, address "109.205.252.194:44102"
+L 01/26/2013 - 18:07:03: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05ABB4B0
+L 01/26/2013 - 18:07:03: "Player<4><STEAM_0:0:913028420><>" connected, address "109.205.252.194:44102"
+L 01/26/2013 - 18:07:11: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05AC04B8
+L 01/26/2013 - 18:07:11: "LiKeee<5><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/26/2013 - 18:07:12: [DPROTO]: Client 3 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05AC04B8
+L 01/26/2013 - 18:07:12: "LiKeee<6><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/26/2013 - 18:07:17: "Player<4><STEAM_0:0:913028420><>" entered the game
+L 01/26/2013 - 18:07:19: "LiKeee<6><STEAM_0:0:1904474522><>" entered the game
+L 01/26/2013 - 18:07:20: "LiKeee<6><STEAM_0:0:1904474522><>" joined team "CT"
+L 01/26/2013 - 18:07:23: "Player<4><STEAM_0:0:913028420><>" joined team "CT"
+L 01/26/2013 - 18:07:31: "LiKeee<6><STEAM_0:0:1904474522><CT>" committed suicide with "world"
+L 01/26/2013 - 18:07:31: "LiKeee<6><STEAM_0:0:1904474522><CT>" joined team "TERRORIST"
+L 01/26/2013 - 18:07:31: World triggered "Game_Commencing"
+L 01/26/2013 - 18:07:31: World triggered "Game_Commencing" (CT "0") (T "0")
+L 01/26/2013 - 18:07:31: World triggered "Round_End"
+L 01/26/2013 - 18:07:34: World triggered "Round_Start"
+L 01/26/2013 - 18:07:46: Server cvar "sv_restartround" = "1"
+L 01/26/2013 - 18:07:47: World triggered "Restart_Round_(1_second)"
+L 01/26/2013 - 18:07:47: Team "CT" scored "0" with "2" players
+L 01/26/2013 - 18:07:47: Team "TERRORIST" scored "0" with "2" players
+L 01/26/2013 - 18:07:47: Server cvar "sv_restartround" = "0"
+L 01/26/2013 - 18:07:48: World triggered "Round_Start"
+L 01/26/2013 - 18:09:55: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:10:18: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "m4a1"
+L 01/26/2013 - 18:10:31: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:11:01: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "usp"
+L 01/26/2013 - 18:11:07: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:11:20: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:13:37: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "knife"
+L 01/26/2013 - 18:13:52: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:14:45: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "scout"
+L 01/26/2013 - 18:15:19: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "m4a1"
+L 01/26/2013 - 18:15:49: "Player<4><STEAM_0:0:913028420><CT>" committed suicide with "world"
+L 01/26/2013 - 18:16:11: "Player<4><STEAM_0:0:913028420><CT>" committed suicide with "world"
+L 01/26/2013 - 18:16:34: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:17:12: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "knife"
+L 01/26/2013 - 18:17:41: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:18:37: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "grenade"
+L 01/26/2013 - 18:18:41: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" say "c"
+L 01/26/2013 - 18:18:47: "Player<4><STEAM_0:0:913028420><CT>" committed suicide with "world"
+L 01/26/2013 - 18:18:52: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:19:55: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "m4a1"
+L 01/26/2013 - 18:21:23: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:21:35: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "m4a1"
+L 01/26/2013 - 18:22:07: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "ak47"
+L 01/26/2013 - 18:22:54: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "m4a1"
+L 01/26/2013 - 18:23:15: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "ak47"
+L 01/26/2013 - 18:23:57: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "ak47"
+L 01/26/2013 - 18:25:08: "Player<4><STEAM_0:0:913028420><CT>" killed "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" with "ak47"
+L 01/26/2013 - 18:25:22: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" killed "Player<4><STEAM_0:0:913028420><CT>" with "ak47"
+L 01/26/2013 - 18:25:28: "LiKeee<6><STEAM_0:0:1904474522><TERRORIST>" disconnected
+L 01/26/2013 - 18:25:56: Server cvar "amx_nextmap" = "de_inferno"
+L 01/26/2013 - 18:26:09: "Player<4><STEAM_0:0:913028420><CT>" committed suicide with "world"
+L 01/26/2013 - 18:26:09: "Player<4><STEAM_0:0:913028420><CT>" joined team "SPECTATOR"
+L 01/26/2013 - 18:27:12: "Player<4><STEAM_0:0:913028420><SPECTATOR>" joined team "CT"
+L 01/26/2013 - 18:27:29: ".<1><BOT><TERRORIST>" disconnected
+L 01/26/2013 - 18:27:29: ":<2><BOT><CT>" disconnected
+L 01/26/2013 - 18:27:29: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/26/2013 - 18:27:29: World triggered "Round_End"
+L 01/26/2013 - 18:27:29: [META] ini: Begin re-reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 01/26/2013 - 18:27:29: [META] ini: Read plugin config for: AMX Mod X
+L 01/26/2013 - 18:27:29: [META] ini: Read plugin config for: dproto
+L 01/26/2013 - 18:27:29: [META] ini: Read plugin config for: mmtimer
+L 01/26/2013 - 18:27:29: [META] ini: Finished reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 01/26/2013 - 18:27:29: [META] dll: Updating plugins...
+L 01/26/2013 - 18:27:29: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/26/2013 - 18:27:29: "Player<4><STEAM_0:0:913028420><CT>" disconnected
+L 01/26/2013 - 18:27:29: World triggered "Round_Draw" (CT "0") (T "0")
+L 01/26/2013 - 18:27:29: World triggered "Round_End"
+L 01/26/2013 - 18:27:29: Log file closed

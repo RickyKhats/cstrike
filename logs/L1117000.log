@@ -1,0 +1,169 @@
+L 11/17/2012 - 14:18:45: Log file started (file "logs\L1117000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 11/17/2012 - 14:18:45: Server cvar "mp_autokick" = "0"
+L 11/17/2012 - 14:18:45: Server cvar "mp_autoteambalance" = "0"
+L 11/17/2012 - 14:18:45: Server cvar "mp_buytime" = "0.30"
+L 11/17/2012 - 14:18:45: Server cvar "mp_c4timer" = "35"
+L 11/17/2012 - 14:18:45: Server cvar "mp_flashlight" = "1"
+L 11/17/2012 - 14:18:45: Server cvar "mp_freezetime" = "0"
+L 11/17/2012 - 14:18:45: Server cvar "mp_hostagepenalty" = "0"
+L 11/17/2012 - 14:18:45: Server cvar "mp_limitteams" = "0"
+L 11/17/2012 - 14:18:45: Server cvar "mp_roundtime" = "2.10"
+L 11/17/2012 - 14:18:45: Server cvar "mp_timelimit" = "20"
+L 11/17/2012 - 14:18:45: Server cvar "sv_aim" = "0"
+L 11/17/2012 - 14:18:45: Server cvar "sv_maxspeed" = "320"
+L 11/17/2012 - 14:18:45: Server cvar "sv_maxrate" = "25000"
+L 11/17/2012 - 14:18:53: World triggered "Round_Start"
+L 11/17/2012 - 14:19:35: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 042D14A0
+L 11/17/2012 - 14:19:35: "Bceps<1><STEAM_ID_LAN><>" connected, address "94.41.104.148:27005"
+L 11/17/2012 - 14:19:48: "Bceps<1><STEAM_ID_LAN><>" entered the game
+L 11/17/2012 - 14:19:51: "Bceps<1><STEAM_ID_LAN><>" joined team "CT"
+L 11/17/2012 - 14:19:57: Server cvar "sv_restart" = "1"
+L 11/17/2012 - 14:19:57: "Bceps<1><STEAM_ID_LAN><CT>" say "rr"
+L 11/17/2012 - 14:19:57: World triggered "Restart_Round_(1_second)"
+L 11/17/2012 - 14:19:57: Team "CT" scored "0" with "1" players
+L 11/17/2012 - 14:19:57: Team "TERRORIST" scored "0" with "0" players
+L 11/17/2012 - 14:19:57: Server cvar "sv_restart" = "0"
+L 11/17/2012 - 14:19:58: World triggered "Round_Start"
+L 11/17/2012 - 14:20:10: "Bceps<1><STEAM_ID_LAN><CT>" say "/rtv"
+L 11/17/2012 - 14:20:15: "Bceps<1><STEAM_ID_LAN><CT>" say "/top15"
+L 11/17/2012 - 14:20:19: "Bceps<1><STEAM_ID_LAN><CT>" say "/rankstats"
+L 11/17/2012 - 14:20:58: Kick: "Bceps<1><STEAM_ID_LAN><>" was kicked by "Console" (message ""Извините, но ваш пинг слишком высокий, повторите попытку позже..."")
+L 11/17/2012 - 14:20:58: "Bceps<1><STEAM_ID_LAN><CT>" disconnected
+L 11/17/2012 - 14:20:58: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/17/2012 - 14:20:58: World triggered "Round_End"
+L 11/17/2012 - 14:21:03: World triggered "Round_Start"
+L 11/17/2012 - 14:21:04: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 042D14A0
+L 11/17/2012 - 14:21:04: "Bceps<2><STEAM_ID_LAN><>" connected, address "94.41.104.148:27005"
+L 11/17/2012 - 14:21:08: "Bceps<2><STEAM_ID_LAN><>" entered the game
+L 11/17/2012 - 14:21:11: "Bceps<2><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 11/17/2012 - 14:21:11: "Bceps<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:21:22: "Bceps<2><STEAM_ID_LAN><TERRORIST>" changed name to "Admin"
+L 11/17/2012 - 14:21:24: "Admin<2><STEAM_ID_LAN><TERRORIST>" committed suicide with "world"
+L 11/17/2012 - 14:21:24: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/17/2012 - 14:21:24: World triggered "Round_End"
+L 11/17/2012 - 14:21:24: "Admin<2><STEAM_ID_LAN><TERRORIST>" joined team "TERRORIST"
+L 11/17/2012 - 14:21:24: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/17/2012 - 14:21:24: World triggered "Round_End"
+L 11/17/2012 - 14:21:29: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:21:29: World triggered "Round_Start"
+L 11/17/2012 - 14:21:48: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 042D64A8
+L 11/17/2012 - 14:21:48: "Re'Vi/a/ReFLaY.Ka<3><STEAM_0:1:55031644><>" connected, address "136.169.141.145:27005"
+L 11/17/2012 - 14:21:48: "Re'Vi/a/ReFLaY.Ka<3><STEAM_0:1:55031644><>" STEAM USERID validated
+L 11/17/2012 - 14:22:04: "Re'Vi/a/ReFLaY.Ka<3><STEAM_0:1:55031644><>" entered the game
+L 11/17/2012 - 14:22:12: "Re'Vi/a/ReFLaY.Ka<3><STEAM_0:1:55031644><>" joined team "CT"
+L 11/17/2012 - 14:22:12: World triggered "Game_Commencing"
+L 11/17/2012 - 14:22:12: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/17/2012 - 14:22:12: World triggered "Round_End"
+L 11/17/2012 - 14:22:15: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:22:15: World triggered "Round_Start"
+L 11/17/2012 - 14:22:18: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/17/2012 - 14:22:18: "Admin<2><STEAM_ID_LAN><TERRORIST>" committed suicide with "world"
+L 11/17/2012 - 14:22:18: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/17/2012 - 14:22:18: World triggered "Round_End"
+L 11/17/2012 - 14:22:18: "Admin<2><STEAM_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 11/17/2012 - 14:22:23: World triggered "Round_Start"
+L 11/17/2012 - 14:22:25: "Admin<2><STEAM_ID_LAN><SPECTATOR>" joined team "TERRORIST"
+L 11/17/2012 - 14:22:26: World triggered "Game_Commencing"
+L 11/17/2012 - 14:22:26: World triggered "Game_Commencing" (CT "1") (T "0")
+L 11/17/2012 - 14:22:26: World triggered "Round_End"
+L 11/17/2012 - 14:22:29: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:22:29: World triggered "Round_Start"
+L 11/17/2012 - 14:22:41: Server cvar "sv_restartround" = "1"
+L 11/17/2012 - 14:22:42: World triggered "Restart_Round_(1_second)"
+L 11/17/2012 - 14:22:42: Team "CT" scored "0" with "1" players
+L 11/17/2012 - 14:22:42: Team "TERRORIST" scored "0" with "1" players
+L 11/17/2012 - 14:22:42: Server cvar "sv_restartround" = "0"
+L 11/17/2012 - 14:22:43: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:22:43: World triggered "Round_Start"
+L 11/17/2012 - 14:22:43: "Admin<2><STEAM_ID_LAN><TERRORIST>" say "noexaJIu :D"
+L 11/17/2012 - 14:22:47: "Re'Vi/a/ReFLaY.Ka<3><STEAM_0:1:55031644><CT>" disconnected
+L 11/17/2012 - 14:22:52: "Admin<2><STEAM_ID_LAN><TERRORIST>" say "snejok norm ne)?"
+L 11/17/2012 - 14:22:54: "Admin<2><STEAM_ID_LAN><TERRORIST>" say ":D"
+L 11/17/2012 - 14:23:09: [DPROTO]: Client 1 - Set AuthIdType 1 [Native]; pClient = 042D64A8
+L 11/17/2012 - 14:23:09: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><>" connected, address "136.169.141.145:27005"
+L 11/17/2012 - 14:23:10: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><>" STEAM USERID validated
+L 11/17/2012 - 14:23:13: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><>" entered the game
+L 11/17/2012 - 14:23:16: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><>" joined team "CT"
+L 11/17/2012 - 14:23:16: World triggered "Game_Commencing"
+L 11/17/2012 - 14:23:16: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/17/2012 - 14:23:16: World triggered "Round_End"
+L 11/17/2012 - 14:23:19: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:23:19: World triggered "Round_Start"
+L 11/17/2012 - 14:23:31: Server cvar "sv_restartround" = "1"
+L 11/17/2012 - 14:23:31: World triggered "Restart_Round_(1_second)"
+L 11/17/2012 - 14:23:31: Team "CT" scored "0" with "1" players
+L 11/17/2012 - 14:23:31: Team "TERRORIST" scored "0" with "1" players
+L 11/17/2012 - 14:23:31: Server cvar "sv_restartround" = "0"
+L 11/17/2012 - 14:23:32: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:23:32: World triggered "Round_Start"
+L 11/17/2012 - 14:23:33: "Admin<2><STEAM_ID_LAN><TERRORIST>" say "viletaet?"
+L 11/17/2012 - 14:24:07: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" killed "Admin<2><STEAM_ID_LAN><TERRORIST>" with "usp"
+L 11/17/2012 - 14:24:07: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/17/2012 - 14:24:07: World triggered "Round_End"
+L 11/17/2012 - 14:24:12: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:24:12: World triggered "Round_Start"
+L 11/17/2012 - 14:24:23: "Admin<2><STEAM_ID_LAN><TERRORIST>" killed "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" with "deagle"
+L 11/17/2012 - 14:24:23: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 11/17/2012 - 14:24:23: World triggered "Round_End"
+L 11/17/2012 - 14:24:28: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:24:28: World triggered "Round_Start"
+L 11/17/2012 - 14:24:43: "Admin<2><STEAM_ID_LAN><TERRORIST>" killed "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" with "deagle"
+L 11/17/2012 - 14:24:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 11/17/2012 - 14:24:43: World triggered "Round_End"
+L 11/17/2012 - 14:24:48: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:24:48: World triggered "Round_Start"
+L 11/17/2012 - 14:25:10: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" killed "Admin<2><STEAM_ID_LAN><TERRORIST>" with "deagle"
+L 11/17/2012 - 14:25:10: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 11/17/2012 - 14:25:10: World triggered "Round_End"
+L 11/17/2012 - 14:25:15: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:25:15: World triggered "Round_Start"
+L 11/17/2012 - 14:25:47: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/17/2012 - 14:25:47: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 11/17/2012 - 14:25:50: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/17/2012 - 14:25:55: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 11/17/2012 - 14:25:56: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/17/2012 - 14:26:01: "Admin<2><STEAM_ID_LAN><TERRORIST>" killed "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" with "knife"
+L 11/17/2012 - 14:26:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "3")
+L 11/17/2012 - 14:26:01: World triggered "Round_End"
+L 11/17/2012 - 14:26:06: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:26:06: World triggered "Round_Start"
+L 11/17/2012 - 14:26:31: "Admin<2><STEAM_ID_LAN><TERRORIST>" killed "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" with "awp"
+L 11/17/2012 - 14:26:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "4")
+L 11/17/2012 - 14:26:31: World triggered "Round_End"
+L 11/17/2012 - 14:26:36: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:26:36: World triggered "Round_Start"
+L 11/17/2012 - 14:26:55: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/17/2012 - 14:27:09: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" killed "Admin<2><STEAM_ID_LAN><TERRORIST>" with "knife"
+L 11/17/2012 - 14:27:09: Team "CT" triggered "CTs_Win" (CT "3") (T "4")
+L 11/17/2012 - 14:27:09: World triggered "Round_End"
+L 11/17/2012 - 14:27:14: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:27:14: World triggered "Round_Start"
+L 11/17/2012 - 14:27:16: "Admin<2><STEAM_ID_LAN><TERRORIST>" say "afk 2 min"
+L 11/17/2012 - 14:27:39: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" killed "Admin<2><STEAM_ID_LAN><TERRORIST>" with "awp"
+L 11/17/2012 - 14:27:39: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 11/17/2012 - 14:27:39: World triggered "Round_End"
+L 11/17/2012 - 14:27:44: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:27:44: World triggered "Round_Start"
+L 11/17/2012 - 14:28:07: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" killed "Admin<2><STEAM_ID_LAN><TERRORIST>" with "awp"
+L 11/17/2012 - 14:28:07: Team "CT" triggered "CTs_Win" (CT "5") (T "4")
+L 11/17/2012 - 14:28:07: World triggered "Round_End"
+L 11/17/2012 - 14:28:12: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/17/2012 - 14:28:12: World triggered "Round_Start"
+L 11/17/2012 - 14:29:14: "Admin<2><STEAM_ID_LAN><TERRORIST>" triggered "Dropped_The_Bomb"
+L 11/17/2012 - 14:29:14: "Admin<2><STEAM_ID_LAN><TERRORIST>" committed suicide with "world"
+L 11/17/2012 - 14:29:14: Team "CT" triggered "CTs_Win" (CT "6") (T "4")
+L 11/17/2012 - 14:29:14: World triggered "Round_End"
+L 11/17/2012 - 14:29:14: "Admin<2><STEAM_ID_LAN><TERRORIST>" joined team "SPECTATOR"
+L 11/17/2012 - 14:29:19: World triggered "Round_Start"
+L 11/17/2012 - 14:29:45: [META] ini: Begin re-reading plugins list: d:/server/cstrike/addons/metamod/plugins.ini
+L 11/17/2012 - 14:29:45: [META] ini: Read plugin config for: AMX Mod X
+L 11/17/2012 - 14:29:45: [META] ini: Read plugin config for: dproto
+L 11/17/2012 - 14:29:45: [META] ini: Read plugin config for: mmtimer
+L 11/17/2012 - 14:29:45: [META] ini: Finished reading plugins list: d:/server/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 11/17/2012 - 14:29:45: [META] dll: Updating plugins...
+L 11/17/2012 - 14:29:45: [META] dll: Finished updating 9 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/17/2012 - 14:29:45: "Admin<2><STEAM_ID_LAN><SPECTATOR>" disconnected
+L 11/17/2012 - 14:29:45: "Re'Vi/a/ReFLaY.Ka<4><STEAM_0:1:55031644><CT>" disconnected
+L 11/17/2012 - 14:29:45: World triggered "Round_Draw" (CT "6") (T "4")
+L 11/17/2012 - 14:29:45: World triggered "Round_End"
+L 11/17/2012 - 14:29:45: Log file closed

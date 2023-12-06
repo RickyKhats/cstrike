@@ -1,0 +1,140 @@
+L 01/27/2013 - 14:06:05: Start of error session.
+L 01/27/2013 - 14:06:05: Info (map "de_cbble") (file "addons/amxmodx/logs/error_20130127.log")
+L 01/27/2013 - 14:06:05: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:05: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:06: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:06: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:07: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:07: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:08: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:08: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:09: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:09: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:10: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:10: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:11: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:11: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:12: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:12: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:14: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:14: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:14: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:14: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:16: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:16: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:16: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:16: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:18: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:18: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:18: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:18: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:20: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:20: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:20: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:20: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:22: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:22: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:22: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:22: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:24: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:24: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:25: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:25: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:26: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:26: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:27: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:27: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:28: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:28: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:29: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:29: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:30: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:30: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:31: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:31: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:32: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:32: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:33: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:33: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:35: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:35: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:35: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:35: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:37: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:37: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:37: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:37: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:39: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:39: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:39: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:39: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:41: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:41: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:41: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:41: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:43: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:43: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:43: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:43: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:45: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:45: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:46: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:46: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:47: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:47: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:48: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:48: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:49: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:49: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:50: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:50: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:51: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:51: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/27/2013 - 14:06:52: [CSTRIKE] Invalid player 4
+L 01/27/2013 - 14:06:52: [AMXX] Run time error 10 (plugin "nademodes.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/27/2013 - 14:06:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

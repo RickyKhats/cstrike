@@ -1,0 +1,38 @@
+L 01/24/2013 - 22:09:06: Log file started (file "logs\L0124002.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 01/24/2013 - 22:09:06: Server cvar "mp_autokick" = "0"
+L 01/24/2013 - 22:09:06: Server cvar "mp_autoteambalance" = "0"
+L 01/24/2013 - 22:09:06: Server cvar "mp_flashlight" = "1"
+L 01/24/2013 - 22:09:06: Server cvar "mp_freezetime" = "0"
+L 01/24/2013 - 22:09:06: Server cvar "mp_limitteams" = "0"
+L 01/24/2013 - 22:09:06: Server cvar "mp_timelimit" = "20"
+L 01/24/2013 - 22:09:06: Server cvar "sv_aim" = "0"
+L 01/24/2013 - 22:09:06: Server cvar "sv_maxspeed" = "320"
+L 01/24/2013 - 22:09:06: Server cvar "sv_maxrate" = "25000"
+L 01/24/2013 - 22:09:06: Server cvar "sv_alltalk" = "1"
+L 01/24/2013 - 22:09:14: World triggered "Round_Start"
+L 01/24/2013 - 22:09:14: ".<1><BOT><>" entered the game
+L 01/24/2013 - 22:09:14: ".<1><BOT><>" joined team "TERRORIST"
+L 01/24/2013 - 22:09:14: ":<2><BOT><>" entered the game
+L 01/24/2013 - 22:09:14: ":<2><BOT><>" joined team "CT"
+L 01/24/2013 - 22:09:36: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05DCB4B0
+L 01/24/2013 - 22:09:36: "LiKeee<3><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/24/2013 - 22:09:38: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05DCB4B0
+L 01/24/2013 - 22:09:38: "LiKeee<4><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/24/2013 - 22:09:45: "LiKeee<4><STEAM_0:0:1904474522><>" entered the game
+L 01/24/2013 - 22:09:47: "LiKeee<4><STEAM_0:0:1904474522><>" joined team "TERRORIST"
+L 01/24/2013 - 22:10:36: "LiKeee<4><STEAM_0:0:1904474522><TERRORIST>" disconnected
+L 01/24/2013 - 22:14:14: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 01/24/2013 - 22:14:14: World triggered "Round_End"
+L 01/24/2013 - 22:14:19: World triggered "Round_Start"
+L 01/24/2013 - 22:15:07: ".<1><BOT><TERRORIST>" disconnected
+L 01/24/2013 - 22:15:07: ":<2><BOT><CT>" disconnected
+L 01/24/2013 - 22:15:07: World triggered "Round_Draw" (CT "1") (T "0")
+L 01/24/2013 - 22:15:07: World triggered "Round_End"
+L 01/24/2013 - 22:15:07: [META] ini: Begin re-reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 01/24/2013 - 22:15:07: [META] ini: Read plugin config for: AMX Mod X
+L 01/24/2013 - 22:15:07: [META] ini: Read plugin config for: dproto
+L 01/24/2013 - 22:15:07: [META] ini: Read plugin config for: mmtimer
+L 01/24/2013 - 22:15:07: [META] ini: Finished reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 01/24/2013 - 22:15:07: [META] dll: Updating plugins...
+L 01/24/2013 - 22:15:07: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/24/2013 - 22:15:07: Log file closed

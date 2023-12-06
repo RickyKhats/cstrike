@@ -1,0 +1,1005 @@
+L 12/06/2023 - 00:04:56: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:04:56: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:04:56: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:04:56: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:04:56: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:04:56: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:04:56: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:04:56: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:04:56: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:04:56: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:04:56: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:04:56: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:04:56: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:04:56: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:04:56: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:04:57: Start of error session.
+L 12/06/2023 - 00:04:57: Info (map "cs_office") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 00:04:57: [AMXX] Plugin file open error (plugin "WhoVistServer.amxx")
+L 12/06/2023 - 00:04:58: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 00:04:58: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:04:58: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 00:04:58: [AMXX]    [0] reapi_dispenser.sma::plugin_init (line 113)
+L 12/06/2023 - 00:18:43: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:18:43: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:18:43: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:18:44: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:18:44: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:18:44: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:18:44: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:18:44: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:18:44: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:18:44: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:18:44: Start of error session.
+L 12/06/2023 - 00:18:44: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 00:18:44: [AMXX] Plugin file open error (plugin "WhoVistServer.amxx")
+L 12/06/2023 - 00:18:44: Function "load_prefixes" was not found
+L 12/06/2023 - 00:18:44: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 00:18:44: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 00:18:45: [AMXX]    [0] main.sma::plugin_init (line 16)
+L 12/06/2023 - 00:18:45: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 00:18:45: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:18:45: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 00:18:45: [AMXX]    [0] reapi_dispenser.sma::plugin_init (line 113)
+L 12/06/2023 - 00:20:15: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:20:15: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:20:15: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:20:15: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:20:15: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:20:15: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:20:15: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:20:15: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:20:15: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:20:15: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:20:15: Start of error session.
+L 12/06/2023 - 00:20:15: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 00:20:15: [AMXX] Plugin file open error (plugin "WhoVistServer.amxx")
+L 12/06/2023 - 00:20:16: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 00:20:16: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:20:16: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 00:20:16: [AMXX]    [0] reapi_dispenser.sma::plugin_init (line 113)
+L 12/06/2023 - 00:23:02: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:23:02: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:23:02: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:23:02: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:23:02: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:23:02: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:23:02: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:23:02: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:23:02: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:23:02: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:23:02: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:23:02: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:23:02: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:23:02: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:23:02: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:23:03: Start of error session.
+L 12/06/2023 - 00:23:03: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 00:23:03: [AMXX] Plugin file open error (plugin "WhoVistServer.amxx")
+L 12/06/2023 - 00:23:03: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 00:23:03: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:23:03: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 00:23:03: [AMXX]    [0] reapi_dispenser.sma::plugin_init (line 113)
+L 12/06/2023 - 00:31:41: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:31:41: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:31:41: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:31:41: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:31:41: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:31:41: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:31:41: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:31:41: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:31:41: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:31:41: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:31:41: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:31:41: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:31:41: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:31:41: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:31:41: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:31:41: Start of error session.
+L 12/06/2023 - 00:31:41: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 00:31:41: [AMXX] Plugin file open error (plugin "WhoVistServer.amxx")
+L 12/06/2023 - 00:31:42: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 00:31:42: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:31:42: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 00:31:42: [AMXX]    [0] reapi_dispenser.sma::plugin_init (line 113)
+L 12/06/2023 - 00:31:43: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:31:43: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:31:43: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:31:43: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:31:43: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:38:38: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:38:38: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:38:38: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:38:38: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:38:38: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:47:18: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:47:18: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:47:18: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:47:18: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:47:18: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:47:18: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:47:18: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:47:18: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:47:18: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:47:18: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:47:18: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:47:18: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:47:18: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:47:18: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:47:18: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 94)
+L 12/06/2023 - 00:47:19: Start of error session.
+L 12/06/2023 - 00:47:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 00:47:19: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 00:47:19: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:47:19: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 00:47:19: [AMXX]    [0] reapi_dispenser.sma::plugin_init (line 114)
+L 12/06/2023 - 00:47:20: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 00:47:20: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 00:47:20: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 00:47:20: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 00:47:20: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:03:49: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:03:49: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:03:49: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:03:49: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:03:49: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:03:49: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:03:49: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:03:49: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:03:49: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:03:50: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:03:50: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:03:50: [AMXX] Displaying debug trace (plugin "reapi_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:03:50: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:03:50: [AMXX]    [0] reapi_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:03:50: [AMXX]    [1] reapi_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:03:58: Start of error session.
+L 12/06/2023 - 01:03:58: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:03:58: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:03:58: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:03:58: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:03:58: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 114)
+L 12/06/2023 - 01:05:33: [AMXX] Plugin ("mode_lasermine.amxx") is setting itself as failed.
+L 12/06/2023 - 01:05:33: [AMXX] Plugin says: Function cstrike_player_resetmaxspeed is not configured in hamdata.ini.
+L 12/06/2023 - 01:05:33: [AMXX] Run time error 1 (plugin "mode_lasermine.amxx") - forced exit
+L 12/06/2023 - 01:06:53: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:06:53: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:06:53: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:06:53: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:06:53: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:06:53: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:06:53: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:06:53: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:06:53: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:06:53: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:06:53: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:06:53: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:06:53: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:06:53: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:06:53: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:06:54: Start of error session.
+L 12/06/2023 - 01:06:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:06:54: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:06:54: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:06:54: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:06:54: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 114)
+L 12/06/2023 - 01:06:55: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:06:55: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:06:55: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:06:55: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:06:55: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:07:07: [AMXX] Plugin ("mode_lasermine.amxx") is setting itself as failed.
+L 12/06/2023 - 01:07:07: [AMXX] Plugin says: Function cstrike_player_resetmaxspeed is not configured in hamdata.ini.
+L 12/06/2023 - 01:07:07: [AMXX] Run time error 1 (plugin "mode_lasermine.amxx") - forced exit
+L 12/06/2023 - 01:12:25: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:12:25: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:12:25: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:12:25: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:12:25: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:12:25: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:12:25: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:12:25: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:12:25: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:12:25: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:12:25: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:12:25: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:12:25: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:12:25: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:12:25: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:12:26: Start of error session.
+L 12/06/2023 - 01:12:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:12:26: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:12:26: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:12:26: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:12:26: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 114)
+L 12/06/2023 - 01:12:40: [AMXX] Plugin ("mode_lasermine.amxx") is setting itself as failed.
+L 12/06/2023 - 01:12:40: [AMXX] Plugin says: Function cstrike_player_resetmaxspeed is not configured in hamdata.ini.
+L 12/06/2023 - 01:12:40: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 01:12:40: [AMXX] Run time error 1: forced exit 
+L 12/06/2023 - 01:12:40: [AMXX]    [0] hamsandwich.inc::__fatal_ham_error (line 436)
+L 12/06/2023 - 01:13:36: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:13:36: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:13:36: [AMXX] Run time error 10: native error (native "rg_create_entity")
+L 12/06/2023 - 01:13:36: [AMXX]    [0] mode_dispenser.sma::@dispenser_create (line 177)
+L 12/06/2023 - 01:14:18: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:14:18: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:14:18: [AMXX] Run time error 10: native error (native "rg_create_entity")
+L 12/06/2023 - 01:14:18: [AMXX]    [0] mode_dispenser.sma::@dispenser_create (line 177)
+L 12/06/2023 - 01:14:20: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:14:20: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:14:20: [AMXX] Run time error 10: native error (native "rg_create_entity")
+L 12/06/2023 - 01:14:20: [AMXX]    [0] mode_dispenser.sma::@dispenser_create (line 177)
+L 12/06/2023 - 01:17:19: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:17:19: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:17:19: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:17:19: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:17:19: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:17:19: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:17:19: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:17:19: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:17:19: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:17:19: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:17:19: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:17:19: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:17:19: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:17:19: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:17:19: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:17:20: Start of error session.
+L 12/06/2023 - 01:17:20: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:17:20: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:17:20: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:17:20: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:17:20: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 114)
+L 12/06/2023 - 01:25:28: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:25:28: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:25:28: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:25:28: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:25:28: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:25:28: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:25:28: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:25:28: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:25:28: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:25:28: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:25:28: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:25:28: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:25:28: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:25:28: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:25:28: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:25:29: Start of error session.
+L 12/06/2023 - 01:25:29: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:25:29: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:25:29: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:25:29: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:25:29: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 114)
+L 12/06/2023 - 01:25:30: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:25:30: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:25:30: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:25:30: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:25:30: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:27:13: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:27:13: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:27:13: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:27:13: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:27:13: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:27:13: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:27:13: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:27:13: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:27:13: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:27:13: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:27:13: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:27:13: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:27:13: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:27:13: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:27:13: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:28:09: Start of error session.
+L 12/06/2023 - 01:28:09: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:28:09: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:28:09: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:28:09: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:28:09: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 114)
+L 12/06/2023 - 01:28:51: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:28:51: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:28:51: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:28:51: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:28:51: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:31:12: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:31:12: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:31:12: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:31:12: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:31:12: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:31:12: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:31:12: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:31:12: [AMXX] Run time error 10: native error (native "rg_find_ent_by_class")
+L 12/06/2023 - 01:31:12: [AMXX]    [0] mode_dispenser.sma::@remove_dispenser_by_owner (line 460)
+L 12/06/2023 - 01:31:12: [AMXX]    [1] mode_dispenser.sma::client_disconnected (line 95)
+L 12/06/2023 - 01:31:13: Start of error session.
+L 12/06/2023 - 01:31:13: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:31:13: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:31:13: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:31:13: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:31:13: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 01:32:30: Start of error session.
+L 12/06/2023 - 01:32:30: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:32:30: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:32:30: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:32:30: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:32:30: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 01:34:37: Start of error session.
+L 12/06/2023 - 01:34:37: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:34:37: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:34:37: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:34:37: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:34:37: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 01:34:52: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:34:52: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:34:52: [AMXX] Run time error 10: native error (native "rg_create_entity")
+L 12/06/2023 - 01:34:52: [AMXX]    [0] mode_dispenser.sma::@dispenser_create (line 176)
+L 12/06/2023 - 01:34:54: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:34:54: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:34:54: [AMXX] Run time error 10: native error (native "rg_create_entity")
+L 12/06/2023 - 01:34:54: [AMXX]    [0] mode_dispenser.sma::@dispenser_create (line 176)
+L 12/06/2023 - 01:36:05: Start of error session.
+L 12/06/2023 - 01:36:05: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:36:05: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:36:05: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:36:06: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:36:06: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 01:36:20: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:36:20: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:36:20: [AMXX] Run time error 10: native error (native "rg_add_account")
+L 12/06/2023 - 01:36:20: [AMXX]    [0] mode_dispenser.sma::@dispenser_create (line 199)
+L 12/06/2023 - 01:36:30: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:36:30: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:36:30: [AMXX] Run time error 10: native error (native "rg_add_account")
+L 12/06/2023 - 01:36:30: [AMXX]    [0] mode_dispenser.sma::@dispenser_menu_select_handler (line 570)
+L 12/06/2023 - 01:36:32: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:36:32: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:36:32: [AMXX] Run time error 10: native error (native "rg_add_account")
+L 12/06/2023 - 01:36:32: [AMXX]    [0] mode_dispenser.sma::@dispenser_menu_select_handler (line 570)
+L 12/06/2023 - 01:36:34: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:36:34: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:36:34: [AMXX] Run time error 10: native error (native "rg_add_account")
+L 12/06/2023 - 01:36:34: [AMXX]    [0] mode_dispenser.sma::@dispenser_menu_select_handler (line 570)
+L 12/06/2023 - 01:36:34: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:36:34: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:36:34: [AMXX] Run time error 10: native error (native "rg_add_account")
+L 12/06/2023 - 01:36:34: [AMXX]    [0] mode_dispenser.sma::@dispenser_think (line 390)
+L 12/06/2023 - 01:38:38: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 01:38:38: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:38:38: [AMXX] Run time error 10: native error (native "rg_add_account")
+L 12/06/2023 - 01:38:39: [AMXX]    [0] mode_dispenser.sma::@dispenser_menu_select_handler (line 590)
+L 12/06/2023 - 01:48:59: Start of error session.
+L 12/06/2023 - 01:48:59: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 01:48:59: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 01:48:59: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 01:48:59: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 01:48:59: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:06:10: Start of error session.
+L 12/06/2023 - 02:06:10: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:06:10: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:06:10: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:06:10: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:06:10: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:06:25: Start of error session.
+L 12/06/2023 - 02:06:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:06:25: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:06:25: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:06:25: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:06:25: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:10:56: Start of error session.
+L 12/06/2023 - 02:10:56: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:10:56: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:10:56: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:10:56: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:10:56: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:15:00: Start of error session.
+L 12/06/2023 - 02:15:00: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:15:00: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:15:00: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:15:00: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:15:00: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:27:15: Start of error session.
+L 12/06/2023 - 02:27:15: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:27:15: Function "menu_main_build" was not found
+L 12/06/2023 - 02:27:15: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 02:27:15: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:27:15: [AMXX]    [0] main.sma::plugin_init (line 16)
+L 12/06/2023 - 02:27:15: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:27:15: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:27:15: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:27:15: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:43:39: Start of error session.
+L 12/06/2023 - 02:43:39: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:43:39: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:43:39: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:43:39: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:43:39: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:43:39: Function "func_menu" was not found
+L 12/06/2023 - 02:43:39: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:43:40: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:43:40: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 02:43:40: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 145)
+L 12/06/2023 - 02:43:42: Invalid CVAR pointer
+L 12/06/2023 - 02:43:42: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:43:42: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 02:43:42: [AMXX]    [0] mode_lasermine.sma::client_connect (line 217)
+L 12/06/2023 - 02:43:42: Invalid CVAR pointer
+L 12/06/2023 - 02:43:42: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:43:42: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 02:43:42: [AMXX]    [0] mode_lasermine.sma::client_connect (line 217)
+L 12/06/2023 - 02:46:15: Start of error session.
+L 12/06/2023 - 02:46:15: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:46:15: Function "menu_main_build" was not found
+L 12/06/2023 - 02:46:15: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 02:46:15: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:46:15: [AMXX]    [0] main.sma::plugin_init (line 16)
+L 12/06/2023 - 02:46:15: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:46:15: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:46:15: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:46:15: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:46:15: Function "func_menu" was not found
+L 12/06/2023 - 02:46:15: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:46:15: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:46:15: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 02:46:15: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 145)
+L 12/06/2023 - 02:46:32: Invalid CVAR pointer
+L 12/06/2023 - 02:46:32: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:46:32: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 02:46:32: [AMXX]    [0] mode_lasermine.sma::client_connect (line 222)
+L 12/06/2023 - 02:49:23: Start of error session.
+L 12/06/2023 - 02:49:23: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:49:23: Function "menu_main_build" was not found
+L 12/06/2023 - 02:49:23: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 02:49:23: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:49:23: [AMXX]    [0] main.sma::plugin_init (line 16)
+L 12/06/2023 - 02:49:23: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:49:23: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:49:23: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:49:23: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:49:23: Function "func_menu" was not found
+L 12/06/2023 - 02:49:23: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:49:23: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:49:23: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 02:49:23: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 151)
+L 12/06/2023 - 02:49:23: Invalid CVAR pointer
+L 12/06/2023 - 02:49:23: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:49:23: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 02:49:23: [AMXX]    [0] mode_lasermine.sma::client_connect (line 228)
+L 12/06/2023 - 02:53:01: Invalid CVAR pointer
+L 12/06/2023 - 02:53:01: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:53:01: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 02:53:01: [AMXX]    [0] mode_lasermine.sma::client_connect (line 228)
+L 12/06/2023 - 02:53:52: Start of error session.
+L 12/06/2023 - 02:53:52: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:53:52: Function "menu_main_build" was not found
+L 12/06/2023 - 02:53:52: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 02:53:52: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:53:52: [AMXX]    [0] main.sma::plugin_init (line 16)
+L 12/06/2023 - 02:53:52: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:53:52: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:53:52: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:53:52: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:53:53: Function "func_menu" was not found
+L 12/06/2023 - 02:53:53: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:53:53: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:53:53: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 02:53:53: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 151)
+L 12/06/2023 - 02:53:53: Invalid CVAR pointer
+L 12/06/2023 - 02:53:53: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:53:53: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 02:53:53: [AMXX]    [0] mode_lasermine.sma::client_connect (line 228)
+L 12/06/2023 - 02:56:35: Start of error session.
+L 12/06/2023 - 02:56:35: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 02:56:35: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 02:56:35: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 02:56:35: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 02:56:35: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 02:56:35: Function "func_menu" was not found
+L 12/06/2023 - 02:56:35: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 02:56:35: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 02:56:35: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 02:56:35: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 151)
+L 12/06/2023 - 03:03:25: Invalid CVAR pointer
+L 12/06/2023 - 03:03:25: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 03:03:25: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 03:03:25: [AMXX]    [0] mode_lasermine.sma::client_connect (line 228)
+L 12/06/2023 - 03:16:45: Start of error session.
+L 12/06/2023 - 03:16:45: Info (map "cs_siege") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 03:16:45: Function "notify_player" was not found
+L 12/06/2023 - 03:16:45: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 03:16:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 03:16:45: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 03:16:46: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 03:16:46: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 03:16:46: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 03:16:46: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 115)
+L 12/06/2023 - 03:36:55: Start of error session.
+L 12/06/2023 - 03:36:55: Info (map "de_cbble") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 03:36:55: Function "notify_player" was not found
+L 12/06/2023 - 03:36:55: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 03:36:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 03:36:55: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 03:57:04: Start of error session.
+L 12/06/2023 - 03:57:04: Info (map "de_dust") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 03:57:04: Function "notify_player" was not found
+L 12/06/2023 - 03:57:04: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 03:57:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 03:57:04: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:02:16: Start of error session.
+L 12/06/2023 - 04:02:16: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:02:16: Function "notify_player" was not found
+L 12/06/2023 - 04:02:16: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:02:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 04:02:16: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:04:12: Start of error session.
+L 12/06/2023 - 04:04:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:04:12: Function "notify_player" was not found
+L 12/06/2023 - 04:04:12: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:04:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 04:04:12: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:04:28: Called dynanative into a paused plugin.
+L 12/06/2023 - 04:04:28: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 04:04:28: [AMXX] Run time error 10: native error (native "tesla_place")
+L 12/06/2023 - 04:04:28: [AMXX]    [0] menu.inc::menu_place_handle (line 73)
+L 12/06/2023 - 04:05:11: Start of error session.
+L 12/06/2023 - 04:05:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:05:11: Function "notify_player" was not found
+L 12/06/2023 - 04:05:11: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:05:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 04:05:12: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:12:00: Start of error session.
+L 12/06/2023 - 04:12:00: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:12:00: Function "notify_player" was not found
+L 12/06/2023 - 04:12:00: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:12:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 04:12:00: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:27:04: Start of error session.
+L 12/06/2023 - 04:27:04: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:27:04: Function "notify_player" was not found
+L 12/06/2023 - 04:27:04: [AMXX] Run time error 19 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:27:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 04:27:04: [AMXX] Run time error -1 (plugin "main.amxx") - debug not enabled!
+L 12/06/2023 - 04:27:05: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:27:05: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:27:05: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:27:05: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:27:05: Function "func_menu" was not found
+L 12/06/2023 - 04:27:05: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:27:05: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:27:05: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:27:05: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:27:17: Invalid CVAR pointer
+L 12/06/2023 - 04:27:17: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:27:17: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:27:17: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:27:55: Invalid player id 46
+L 12/06/2023 - 04:27:55: [AMXX] Displaying debug trace (plugin "mode_centryguns.amxx", version "0.5.3")
+L 12/06/2023 - 04:27:55: [AMXX] Run time error 10: native error (native "get_user_aiming")
+L 12/06/2023 - 04:27:55: [AMXX]    [0] mode_centryguns.sma::AimingAtSentry (line 1496)
+L 12/06/2023 - 04:27:55: [AMXX]    [1] mode_centryguns.sma::createsentryhere (line 253)
+L 12/06/2023 - 04:27:55: Unhandled dynamic native error
+L 12/06/2023 - 04:27:55: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 04:27:55: [AMXX] Run time error 10: native error (native "centry_place")
+L 12/06/2023 - 04:27:55: [AMXX]    [0] menu.inc::menu_place_handle (line 67)
+L 12/06/2023 - 04:30:03: Invalid player id 46
+L 12/06/2023 - 04:30:03: [AMXX] Displaying debug trace (plugin "mode_centryguns.amxx", version "0.5.3")
+L 12/06/2023 - 04:30:03: [AMXX] Run time error 10: native error (native "get_user_aiming")
+L 12/06/2023 - 04:30:03: [AMXX]    [0] mode_centryguns.sma::AimingAtSentry (line 1496)
+L 12/06/2023 - 04:30:03: [AMXX]    [1] mode_centryguns.sma::createsentryhere (line 253)
+L 12/06/2023 - 04:30:03: Unhandled dynamic native error
+L 12/06/2023 - 04:30:03: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 04:30:03: [AMXX] Run time error 10: native error (native "centry_place")
+L 12/06/2023 - 04:30:03: [AMXX]    [0] menu.inc::menu_place_handle (line 67)
+L 12/06/2023 - 04:30:09: Invalid player id 46
+L 12/06/2023 - 04:30:09: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:30:09: [AMXX] Run time error 10: native error (native "get_user_flags")
+L 12/06/2023 - 04:30:09: [AMXX]    [0] mode_lasermine.sma::SetLaser_CMD (line 354)
+L 12/06/2023 - 04:30:09: Unhandled dynamic native error
+L 12/06/2023 - 04:30:09: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 04:30:09: [AMXX] Run time error 10: native error (native "lasermine_place")
+L 12/06/2023 - 04:30:09: [AMXX]    [0] menu.inc::menu_place_handle (line 70)
+L 12/06/2023 - 04:31:25: Start of error session.
+L 12/06/2023 - 04:31:25: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:31:25: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:31:25: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:31:25: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:31:25: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:31:25: Function "func_menu" was not found
+L 12/06/2023 - 04:31:25: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:31:25: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:31:25: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:31:25: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:31:26: Invalid CVAR pointer
+L 12/06/2023 - 04:31:26: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:31:26: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:31:26: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:31:26: Invalid CVAR pointer
+L 12/06/2023 - 04:31:26: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:31:26: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:31:26: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:31:54: Invalid player id 46
+L 12/06/2023 - 04:31:54: [AMXX] Displaying debug trace (plugin "mode_centryguns.amxx", version "0.5.3")
+L 12/06/2023 - 04:31:54: [AMXX] Run time error 10: native error (native "get_user_aiming")
+L 12/06/2023 - 04:31:54: [AMXX]    [0] mode_centryguns.sma::AimingAtSentry (line 1496)
+L 12/06/2023 - 04:31:54: [AMXX]    [1] mode_centryguns.sma::createsentryhere (line 253)
+L 12/06/2023 - 04:31:54: Unhandled dynamic native error
+L 12/06/2023 - 04:31:54: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 04:31:54: [AMXX] Run time error 10: native error (native "centry_place")
+L 12/06/2023 - 04:31:54: [AMXX]    [0] menu.inc::menu_place_handle (line 67)
+L 12/06/2023 - 04:36:51: Start of error session.
+L 12/06/2023 - 04:36:51: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:36:51: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:36:51: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:36:51: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:36:51: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:36:51: Function "func_menu" was not found
+L 12/06/2023 - 04:36:51: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:36:51: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:36:51: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:36:52: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:36:52: Invalid CVAR pointer
+L 12/06/2023 - 04:36:52: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:36:52: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:36:52: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:36:52: Invalid CVAR pointer
+L 12/06/2023 - 04:36:52: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:36:52: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:36:52: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:39:57: Start of error session.
+L 12/06/2023 - 04:39:57: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:39:57: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:39:57: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:39:57: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:39:57: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:39:57: Function "func_menu" was not found
+L 12/06/2023 - 04:39:57: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:39:57: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:39:57: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:39:57: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:39:58: Invalid CVAR pointer
+L 12/06/2023 - 04:39:58: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:39:58: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:39:58: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:39:58: Invalid CVAR pointer
+L 12/06/2023 - 04:39:58: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:39:58: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:39:58: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:42:42: Invalid CVAR pointer
+L 12/06/2023 - 04:42:42: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:42:42: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:42:42: [AMXX]    [0] mode_lasermine.sma::client_connect (line 229)
+L 12/06/2023 - 04:44:00: Start of error session.
+L 12/06/2023 - 04:44:00: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:44:00: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:44:00: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:44:00: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:44:00: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:44:00: Function "func_menu" was not found
+L 12/06/2023 - 04:44:00: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:44:00: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:44:00: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:44:00: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:44:00: Invalid CVAR pointer
+L 12/06/2023 - 04:44:00: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:44:00: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:44:00: [AMXX]    [0] mode_lasermine.sma::client_connect (line 228)
+L 12/06/2023 - 04:45:51: Start of error session.
+L 12/06/2023 - 04:45:51: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:45:51: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:45:51: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:45:51: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:45:51: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:45:51: Function "func_menu" was not found
+L 12/06/2023 - 04:45:51: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:45:51: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:45:51: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:45:51: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:48:19: Start of error session.
+L 12/06/2023 - 04:48:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:48:19: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:48:19: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:48:19: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:48:19: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:48:19: Function "func_menu" was not found
+L 12/06/2023 - 04:48:19: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:48:19: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:48:19: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:48:19: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:49:54: Start of error session.
+L 12/06/2023 - 04:49:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:49:54: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:49:54: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:49:54: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:49:54: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:49:54: Function "func_menu" was not found
+L 12/06/2023 - 04:49:54: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:49:54: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:49:54: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:49:54: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:49:55: Invalid CVAR pointer
+L 12/06/2023 - 04:49:55: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:49:55: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:49:55: [AMXX]    [0] mode_lasermine.sma::client_connect (line 224)
+L 12/06/2023 - 04:50:36: Start of error session.
+L 12/06/2023 - 04:50:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:50:36: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:50:36: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:50:36: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:50:36: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:50:36: Function "func_menu" was not found
+L 12/06/2023 - 04:50:36: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:50:36: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:50:36: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:50:36: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:50:46: Invalid CVAR pointer
+L 12/06/2023 - 04:50:46: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:50:46: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:50:46: [AMXX]    [0] mode_lasermine.sma::client_connect (line 224)
+L 12/06/2023 - 04:51:26: Start of error session.
+L 12/06/2023 - 04:51:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:51:26: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:51:26: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:51:26: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:51:26: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:51:26: Function "func_menu" was not found
+L 12/06/2023 - 04:51:26: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:51:26: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:51:26: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:51:26: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:51:27: Invalid CVAR pointer
+L 12/06/2023 - 04:51:27: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:51:27: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:51:27: [AMXX]    [0] mode_lasermine.sma::client_connect (line 224)
+L 12/06/2023 - 04:51:54: Start of error session.
+L 12/06/2023 - 04:51:54: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:51:54: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:51:54: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:51:54: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:51:54: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:51:54: Function "func_menu" was not found
+L 12/06/2023 - 04:51:54: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:51:54: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:51:55: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:51:55: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 150)
+L 12/06/2023 - 04:51:55: Invalid CVAR pointer
+L 12/06/2023 - 04:51:55: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:51:55: [AMXX] Run time error 10: native error (native "get_pcvar_num")
+L 12/06/2023 - 04:51:55: [AMXX]    [0] mode_lasermine.sma::client_authorized (line 224)
+L 12/06/2023 - 04:55:14: Start of error session.
+L 12/06/2023 - 04:55:14: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:55:14: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:55:14: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:55:14: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:55:14: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:55:14: Function "func_menu" was not found
+L 12/06/2023 - 04:55:14: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:55:14: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:55:14: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:55:14: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 163)
+L 12/06/2023 - 04:59:23: Start of error session.
+L 12/06/2023 - 04:59:23: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 04:59:23: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 04:59:23: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 04:59:23: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 04:59:23: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 04:59:23: Function "func_menu" was not found
+L 12/06/2023 - 04:59:23: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 04:59:23: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 04:59:23: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 04:59:23: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 165)
+L 12/06/2023 - 05:01:12: Start of error session.
+L 12/06/2023 - 05:01:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:01:12: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 05:01:12: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 05:01:12: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 05:01:12: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 05:01:12: Function "func_menu" was not found
+L 12/06/2023 - 05:01:12: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:01:12: [AMXX] Run time error 19: function not found 
+L 12/06/2023 - 05:01:12: [AMXX]    [0] amxmisc.inc::register_menu (line 620)
+L 12/06/2023 - 05:01:12: [AMXX]    [1] mode_lasermine.sma::plugin_init (line 165)
+L 12/06/2023 - 05:01:29: Start of error session.
+L 12/06/2023 - 05:01:29: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:01:29: [ReAPI] RegisterHookChain: function (CSGameRules_CleanUpMap) is not available, ReGameDLL required.
+L 12/06/2023 - 05:01:29: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 05:01:29: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 05:01:29: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 110)
+L 12/06/2023 - 05:06:11: Start of error session.
+L 12/06/2023 - 05:06:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:06:11: [ReAPI] RegisterHookChain: function (CBasePlayer_Killed) is not available, ReGameDLL required.
+L 12/06/2023 - 05:06:11: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 05:06:11: [AMXX] Run time error 10: native error (native "RegisterHookChain")
+L 12/06/2023 - 05:06:11: [AMXX]    [0] mode_dispenser.sma::plugin_init (line 111)
+L 12/06/2023 - 05:10:40: Start of error session.
+L 12/06/2023 - 05:10:40: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:10:40: [HAMSANDWICH] Invalid HamHook handle.
+L 12/06/2023 - 05:10:40: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:10:40: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 12/06/2023 - 05:10:40: [AMXX]    [0] mode_lasermine.sma::SetLaser_DropCMD (line 382)
+L 12/06/2023 - 05:10:41: [HAMSANDWICH] Invalid HamHook handle.
+L 12/06/2023 - 05:10:41: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:10:41: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 12/06/2023 - 05:10:41: [AMXX]    [0] mode_lasermine.sma::SetLaser_DropCMD (line 382)
+L 12/06/2023 - 05:10:41: [HAMSANDWICH] Invalid HamHook handle.
+L 12/06/2023 - 05:10:41: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:10:41: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 12/06/2023 - 05:10:41: [AMXX]    [0] mode_lasermine.sma::SetLaser_DropCMD (line 382)
+L 12/06/2023 - 05:10:42: [HAMSANDWICH] Invalid HamHook handle.
+L 12/06/2023 - 05:10:42: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:10:42: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 12/06/2023 - 05:10:42: [AMXX]    [0] mode_lasermine.sma::SetLaser_DropCMD (line 382)
+L 12/06/2023 - 05:10:42: [AMXX]    [1] mode_lasermine.sma::CreateLaserMine (line 343)
+L 12/06/2023 - 05:11:42: [HAMSANDWICH] Invalid HamHook handle.
+L 12/06/2023 - 05:11:42: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:11:42: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 12/06/2023 - 05:11:42: [AMXX]    [0] mode_lasermine.sma::SetLaser_DropCMD (line 382)
+L 12/06/2023 - 05:11:42: [HAMSANDWICH] Invalid HamHook handle.
+L 12/06/2023 - 05:11:42: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:11:42: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 12/06/2023 - 05:11:42: [AMXX]    [0] mode_lasermine.sma::SetLaser_DropCMD (line 382)
+L 12/06/2023 - 05:12:10: Start of error session.
+L 12/06/2023 - 05:12:10: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:12:10: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:12:10: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:12:10: [AMXX]    [0] mode_lasermine.sma::get_corner (line 252)
+L 12/06/2023 - 05:12:10: Unhandled dynamic native error
+L 12/06/2023 - 05:12:10: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:12:10: [AMXX] Run time error 10: native error (native "lasermine_getCorner")
+L 12/06/2023 - 05:12:10: [AMXX]    [0] menu.inc::native_menu_lasermine_build (line 98)
+L 12/06/2023 - 05:12:10: Unhandled dynamic native error
+L 12/06/2023 - 05:12:11: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:12:11: [AMXX] Run time error 10: native error (native "menu_lasermine_build")
+L 12/06/2023 - 05:12:11: [AMXX]    [0] mode_lasermine.sma::touch_player (line 240)
+L 12/06/2023 - 05:12:12: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:12:12: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:12:12: [AMXX]    [0] mode_lasermine.sma::get_corner (line 252)
+L 12/06/2023 - 05:12:12: Unhandled dynamic native error
+L 12/06/2023 - 05:12:12: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:12:12: [AMXX] Run time error 10: native error (native "lasermine_getCorner")
+L 12/06/2023 - 05:12:12: [AMXX]    [0] menu.inc::native_menu_lasermine_build (line 98)
+L 12/06/2023 - 05:12:12: Unhandled dynamic native error
+L 12/06/2023 - 05:12:12: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:12:12: [AMXX] Run time error 10: native error (native "menu_lasermine_build")
+L 12/06/2023 - 05:12:12: [AMXX]    [0] mode_lasermine.sma::touch_player (line 240)
+L 12/06/2023 - 05:16:45: Start of error session.
+L 12/06/2023 - 05:16:45: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:16:45: Invalid player id 49.
+L 12/06/2023 - 05:16:45: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:16:45: [AMXX] Run time error 10: native error (native "menu_display")
+L 12/06/2023 - 05:16:45: [AMXX]    [0] menu.inc::native_menu_lasermine_build (line 108)
+L 12/06/2023 - 05:16:45: Unhandled dynamic native error
+L 12/06/2023 - 05:16:45: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:16:45: [AMXX] Run time error 10: native error (native "menu_lasermine_build")
+L 12/06/2023 - 05:16:45: [AMXX]    [0] mode_lasermine.sma::touch_player (line 236)
+L 12/06/2023 - 05:24:17: Start of error session.
+L 12/06/2023 - 05:24:17: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:24:17: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:24:17: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:24:17: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:24:17: Unhandled dynamic native error
+L 12/06/2023 - 05:24:17: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:24:17: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:24:17: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:24:20: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:24:20: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:24:20: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:24:20: Unhandled dynamic native error
+L 12/06/2023 - 05:24:20: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:24:20: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:24:20: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:24:22: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:24:22: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:24:22: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:24:22: Unhandled dynamic native error
+L 12/06/2023 - 05:24:22: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:24:22: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:24:22: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:04: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:04: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:04: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:04: Unhandled dynamic native error
+L 12/06/2023 - 05:25:04: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:04: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:04: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:07: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:07: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:07: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:07: Unhandled dynamic native error
+L 12/06/2023 - 05:25:07: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:07: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:07: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:08: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:08: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:08: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:08: Unhandled dynamic native error
+L 12/06/2023 - 05:25:08: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:08: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:08: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:10: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:10: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:10: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:10: Unhandled dynamic native error
+L 12/06/2023 - 05:25:10: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:10: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:10: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:11: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:11: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:11: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:11: Unhandled dynamic native error
+L 12/06/2023 - 05:25:12: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:12: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:12: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:13: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:13: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:13: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:13: Unhandled dynamic native error
+L 12/06/2023 - 05:25:13: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:13: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:13: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:22: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:22: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:22: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:22: Unhandled dynamic native error
+L 12/06/2023 - 05:25:22: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:22: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:22: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:25:29: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:25:29: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:25:29: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:25:29: Unhandled dynamic native error
+L 12/06/2023 - 05:25:29: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:25:29: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:25:29: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:53:44: Start of error session.
+L 12/06/2023 - 05:53:44: Info (map "cs_militia") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 05:53:44: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:53:44: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:53:44: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:53:44: Unhandled dynamic native error
+L 12/06/2023 - 05:53:44: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:53:44: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:53:44: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:53:47: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:53:47: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:53:47: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:53:47: Unhandled dynamic native error
+L 12/06/2023 - 05:53:47: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:53:47: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:53:47: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:53:49: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:53:49: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:53:49: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:53:49: Unhandled dynamic native error
+L 12/06/2023 - 05:53:49: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:53:49: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:53:49: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 05:56:09: [AMXX] Displaying debug trace (plugin "mode_lasermine.amxx", version "0.3.4")
+L 12/06/2023 - 05:56:09: [AMXX] Run time error 4: index out of bounds 
+L 12/06/2023 - 05:56:10: [AMXX]    [0] mode_lasermine.sma::upgrade_choosed (line 245)
+L 12/06/2023 - 05:56:10: Unhandled dynamic native error
+L 12/06/2023 - 05:56:10: [AMXX] Displaying debug trace (plugin "main.amxx", version "1.0")
+L 12/06/2023 - 05:56:10: [AMXX] Run time error 10: native error (native "lasermine_upgrade_choosed")
+L 12/06/2023 - 05:56:10: [AMXX]    [0] menu.inc::native_menu_lasermine_handle (line 122)
+L 12/06/2023 - 06:10:57: Start of error session.
+L 12/06/2023 - 06:10:57: Info (map "cs_militia") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 06:10:57: Function "upgrade_choosed" was not found
+L 12/06/2023 - 06:10:57: [AMXX] Run time error 19 (plugin "mode_lasermine.amxx") - debug not enabled!
+L 12/06/2023 - 06:10:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 06:10:57: [AMXX] Run time error -1 (plugin "mode_lasermine.amxx") - debug not enabled!
+L 12/06/2023 - 06:11:43: Start of error session.
+L 12/06/2023 - 06:11:43: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 06:11:43: Function "upgrade_choosed" was not found
+L 12/06/2023 - 06:11:43: [AMXX] Run time error 19 (plugin "mode_lasermine.amxx") - debug not enabled!
+L 12/06/2023 - 06:11:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 06:11:43: [AMXX] Run time error -1 (plugin "mode_lasermine.amxx") - debug not enabled!
+L 12/06/2023 - 06:14:55: [ReAPI] ReGameDll: isn't available
+L 12/06/2023 - 06:14:55: [AMXX] Displaying debug trace (plugin "mode_dispenser.amxx", version "0.5a")
+L 12/06/2023 - 06:14:55: [AMXX] Run time error 10: native error (native "rg_create_entity")
+L 12/06/2023 - 06:14:55: [AMXX]    [0] mode_dispenser.sma::@dispenser_create_fake_gibs (line 579)
+L 12/06/2023 - 06:14:55: [AMXX]    [1] mode_dispenser.sma::@Ham_TakeDamage_Pre (line 278)
+L 12/06/2023 - 06:31:53: Start of error session.
+L 12/06/2023 - 06:31:53: Info (map "de_chateau") (file "addons/amxmodx/logs/error_20231206.log")
+L 12/06/2023 - 06:31:53: Function "upgrade_choosed" was not found
+L 12/06/2023 - 06:31:53: [AMXX] Run time error 19 (plugin "mode_lasermine.amxx") - debug not enabled!
+L 12/06/2023 - 06:31:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/06/2023 - 06:31:53: [AMXX] Run time error -1 (plugin "mode_lasermine.amxx") - debug not enabled!

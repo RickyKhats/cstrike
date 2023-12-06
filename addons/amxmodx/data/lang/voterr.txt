@@ -1,0 +1,17 @@
+[en]
+VOTES_LEFT = !t%i !ymore votes need to restart round!
+ALREADY_VOTED = You have already voted!
+VOTER_DISCONNECTED = %s disconnected. !t%i !yvotes left to restart round!
+ENOUGH_VOTES = Enough players have voted for !gsv_restart %i!y!
+RESTARTING = !tLIVE after !g%i !trestarts...
+GL_HF =   ...:: !gGL !y& !tHF!y ::...
+MAX_RESTARTS_REACHED = There is !t%i !yrestarts limit for this map
+
+[ru]
+VOTES_LEFT = Нехватает !g%i !yголос(а,ов) для рестарта!
+ALREADY_VOTED = Вы уже голосовали за рестарт!
+VOTER_DISCONNECTED = !g%s !yушел. !g%i !yголос(а,ов) нужно для рестарта!
+ENOUGH_VOTES = За !gsv_restart %i !yпроголосовало достаточно игроков!
+RESTARTING = Играем после !g%i !yрестарта...
+GL_HF =   ...:: !gПонеслась!!! !y ::...
+MAX_RESTARTS_REACHED = Разрешено только !g%i !yрестарт(а) на одну карту!

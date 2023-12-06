@@ -1,0 +1,5 @@
+L 01/26/2013 - 18:53:48: Start of error session.
+L 01/26/2013 - 18:53:48: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20130126.log")
+L 01/26/2013 - 18:53:48: [CSTRIKE] Invalid player 3
+L 01/26/2013 - 18:53:48: [AMXX] Run time error 10 (plugin "Dispenser.amxx") (native "cs_get_user_team") - debug not enabled!
+L 01/26/2013 - 18:53:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

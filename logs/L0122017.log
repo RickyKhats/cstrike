@@ -1,0 +1,41 @@
+L 01/22/2013 - 19:14:44: Log file started (file "logs\L0122017.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 01/22/2013 - 19:14:44: Server cvar "mp_autokick" = "0"
+L 01/22/2013 - 19:14:44: Server cvar "mp_autoteambalance" = "0"
+L 01/22/2013 - 19:14:44: Server cvar "mp_flashlight" = "1"
+L 01/22/2013 - 19:14:44: Server cvar "mp_freezetime" = "0"
+L 01/22/2013 - 19:14:44: Server cvar "mp_limitteams" = "0"
+L 01/22/2013 - 19:14:44: Server cvar "mp_timelimit" = "20"
+L 01/22/2013 - 19:14:44: Server cvar "sv_aim" = "0"
+L 01/22/2013 - 19:14:44: Server cvar "sv_maxspeed" = "320"
+L 01/22/2013 - 19:14:44: Server cvar "sv_maxrate" = "25000"
+L 01/22/2013 - 19:14:44: Server cvar "sv_alltalk" = "1"
+L 01/22/2013 - 19:14:49: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05B314A0
+L 01/22/2013 - 19:14:49: "LiKeee<1><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/22/2013 - 19:14:50: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_SteamEmu]; pClient = 05B314A0
+L 01/22/2013 - 19:14:50: "LiKeee<2><STEAM_0:0:1904474522><>" connected, address "46.181.130.173:27005"
+L 01/22/2013 - 19:14:51: World triggered "Round_Start"
+L 01/22/2013 - 19:14:52: ".<3><BOT><>" entered the game
+L 01/22/2013 - 19:14:52: ".<3><BOT><>" joined team "TERRORIST"
+L 01/22/2013 - 19:14:52: ":<4><BOT><>" entered the game
+L 01/22/2013 - 19:14:52: ":<4><BOT><>" joined team "CT"
+L 01/22/2013 - 19:14:53: "LiKeee<2><STEAM_0:0:1904474522><>" entered the game
+L 01/22/2013 - 19:14:54: "LiKeee<2><STEAM_0:0:1904474522><>" joined team "TERRORIST"
+L 01/22/2013 - 19:14:54: "LiKeee<2><STEAM_0:0:1904474522><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 01/22/2013 - 19:14:54: "LiKeee<2><STEAM_0:0:1904474522><TERRORIST>" triggered "Dropped_The_Bomb"
+L 01/22/2013 - 19:14:57: "LiKeee<2><STEAM_0:0:1904474522><TERRORIST>" say "/hpshop"
+L 01/22/2013 - 19:15:59: "LiKeee<2><STEAM_0:0:1904474522><TERRORIST>" disconnected
+L 01/22/2013 - 19:19:51: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 01/22/2013 - 19:19:51: World triggered "Round_End"
+L 01/22/2013 - 19:19:56: World triggered "Round_Start"
+L 01/22/2013 - 19:34:42: Team "CT" scored "1" with "1" players
+L 01/22/2013 - 19:34:42: Team "TERRORIST" scored "0" with "1" players
+L 01/22/2013 - 19:34:42: Server cvar "mp_chattime" = "12"
+L 01/22/2013 - 19:34:52: Server cvar "mp_chattime" = "10"
+L 01/22/2013 - 19:34:52: [META] ini: Begin re-reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 01/22/2013 - 19:34:52: [META] ini: Read plugin config for: AMX Mod X
+L 01/22/2013 - 19:34:52: [META] ini: Read plugin config for: dproto
+L 01/22/2013 - 19:34:52: [META] ini: Read plugin config for: mmtimer
+L 01/22/2013 - 19:34:52: [META] ini: Finished reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 01/22/2013 - 19:34:52: [META] dll: Updating plugins...
+L 01/22/2013 - 19:34:52: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/22/2013 - 19:34:52: Log file closed

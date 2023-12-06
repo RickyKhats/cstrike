@@ -1,0 +1,169 @@
+#include <amxmodx>
+ 
+public plugin_init()
+{
+    // Данные вашего плагина
+ 
+    // Клиентская команда для вызова меню
+    register_clcmd("my_menu", "My_Menu") // First Menu
+        register_clcmd("my_menu2", "My_Menu2") // Second Menu
+}
+ 
+// Создадим функцию, которая будет формировать меню
+public My_Menu(id)
+{
+    // Сперва необходимо создать переменную для меню, с которой мы будем взаимодействовать в дальнейшем
+    new i_Menu = menu_create("\rTitle of my menu:", "menu_handler")
+ 
+    // Теперь добавим некоторые опции для меню
+    menu_additem(i_Menu, "\wTest #1", "1")
+    menu_additem(i_Menu, "\wTest #2", "2")
+    menu_additem(i_Menu, "\wTest #3", "3")
+        menu_additem(i_Menu, "\wTest #4", "4")
+        menu_additem(i_Menu, "\wTest #5", "5")
+        menu_additem(i_Menu, "\wTest #6", "6")
+        menu_additem(i_Menu, "\wTest #7", "7")
+        menu_additem(i_Menu, "\wTest #8^n", "8")
+       
+        menu_additem(i_Menu, "\wNext menu", "9")
+        menu_additem(i_Menu, "\wExit", "0")
+ 
+    // Устанавливаем свойства меню
+    menu_setprop(i_Menu, MPROP_EXIT, MEXIT_ALL)
+        menu_setprop(i_menu, MPROP_PERPAGE, 0) // максимальность итемов на 1 страницы.
+ 
+    // Отображение меню игроку
+    menu_display(id, i_Menu, 0)
+ }
+ 
+// Создадим теперь функцию обработки действий меню
+public menu_handler(id, menu, item)
+{
+    // Если игрок нажал выход из меню
+    if (item == MENU_EXIT)
+    {
+        // Уничтожение меню
+        menu_destroy(menu)
+       
+        return PLUGIN_HANDLED
+    }
+ 
+    // Теперь создадим переменные, необходимые для получения информации о меню и нажатой опции
+    new s_Data[6], s_Name[64], i_Access, i_Callback
+ 
+    // Получаем информацию об опции
+    menu_item_getinfo(menu, item, i_Access, s_Data, charsmax(s_Data), s_Name, charsmax(s_Name), i_Callback)
+ 
+    // Если посмотреть раньше на использовании menu_additem, то можно увидеть, что мы посылали некоторую информацию
+    // В данном случае вся информация - целочисленная
+    new i_Key = str_to_num(s_Data)
+ 
+    // Теперь найдем, какая именно опция была использована
+    switch(i_Key)
+    {
+        case 1: // Test
+               
+                case 2: // Test
+                               
+                case 3: // Test
+                                       
+                case 4: // Test
+                                                               
+                case 5: // Test
+                                                                       
+                case 6: // Test
+               
+                case 7: // Test
+                               
+                case 8: // Test
+               
+                case 9: // client_cmd(id, "my_menu2")
+               
+                case 0: // menu_destroy(menu)
+ 
+    }
+ 
+    // Уничтожение меню
+    menu_destroy(menu)
+    return PLUGIN_HANDLED
+ }
+ 
+ // Создадим функцию, которая будет формировать меню 2
+public My_Menu2(id)
+{
+    // Сперва необходимо создать переменную для меню, с которой мы будем взаимодействовать в дальнейшем
+    new i_Menu = menu_create("\rTitle of my menu2:", "menu_handler2")
+ 
+    // Теперь добавим некоторые опции для меню
+    menu_additem(i_Menu, "\wTest2 #1", "1")
+    menu_additem(i_Menu, "\wTest2 #2", "2")
+    menu_additem(i_Menu, "\wTest2 #3", "3")
+        menu_additem(i_Menu, "\wTest2 #4", "4")
+        menu_additem(i_Menu, "\wTest2 #5", "5")
+        menu_additem(i_Menu, "\wTest2 #6", "6")
+        menu_additem(i_Menu, "\wTest2 #7", "7")
+        menu_additem(i_Menu, "\wTest2 #8^n", "8")
+       
+        menu_additem(i_Menu, "\wBack menu", "9")
+        menu_additem(i_Menu, "\wExit", "0")
+ 
+    // Устанавливаем свойства меню
+    menu_setprop(i_Menu, MPROP_EXIT, MEXIT_ALL)
+        menu_setprop(i_menu, MPROP_PERPAGE, 0) // максимальность итемов на 1 страницы.
+ 
+    // Отображение меню игроку
+    menu_display(id, i_Menu, 0)
+ }
+ 
+// Создадим теперь функцию обработки действий меню
+public menu_handler2(id, menu, item)
+{
+    // Если игрок нажал выход из меню
+    if (item == MENU_EXIT)
+    {
+        // Уничтожение меню
+        menu_destroy(menu)
+       
+        return PLUGIN_HANDLED
+    }
+ 
+    // Теперь создадим переменные, необходимые для получения информации о меню и нажатой опции
+    new s_Data[6], s_Name[64], i_Access, i_Callback
+ 
+    // Получаем информацию об опции
+    menu_item_getinfo(menu, item, i_Access, s_Data, charsmax(s_Data), s_Name, charsmax(s_Name), i_Callback)
+ 
+    // Если посмотреть раньше на использовании menu_additem, то можно увидеть, что мы посылали некоторую информацию
+    // В данном случае вся информация - целочисленная
+    new i_Key = str_to_num(s_Data)
+ 
+    // Теперь найдем, какая именно опция была использована
+    switch(i_Key)
+    {
+        case 1: // Test2
+               
+                case 2: // Test2
+                               
+                case 3: // Test2
+                                       
+                case 4: // Test2
+                                                               
+                case 5: // Test2
+                                                                       
+                case 6: // Test2
+               
+                case 7: // Test2
+                               
+                case 8: // Test2
+               
+                case 9: // client_cmd(id, "my_menu")
+               
+                case 0: // menu_destroy(menu)
+ 
+    }
+ 
+    // Уничтожение меню
+    menu_destroy(menu)
+    return PLUGIN_HANDLED
+ }
+ 

@@ -1,0 +1,80 @@
+[ru]
+AFK_GOT_BOMB = Вы получили бомбу!
+AFK_TRANSFER_BOMB = Бомба передана ^"%s^"
+AFK_TRANSFER_WARN = У вас есть %i секунд чтобы начать играть.
+AFK_TRANSFER_PLAYER = Игрок ^"%s^" был перенесен в наблюдателей.
+AFK_KICK_WARN = У вас есть %i секунд, чтобы зайти за команду.
+AFK_KICK_PLAYER = Игрок ^"%s^" был кикнут, он находился в афк.
+AFK_KICK_REASON = Вы кикнуты по причине афк.
+
+[en]
+AFK_GOT_BOMB = You got the bomb!
+AFK_TRANSFER_BOMB = Bomb transferred to ^"%s^"
+AFK_TRANSFER_WARN = You have %i seconds to start playing or you will be transferred to the spectators.
+AFK_TRANSFER_PLAYER = Player ^"%s^" was transferred to the spectators for being AFK.
+AFK_KICK_WARN = You have %i seconds to join a team or you will be kicked.
+AFK_KICK_PLAYER = Player ^"%s^" was kicked for being AFK.
+AFK_KICK_REASON = You were kicked for being AFK.
+
+[de]
+AFK_GOT_BOMB = Du hast die Bombe!
+AFK_TRANSFER_BOMB = Bombe wurde transferiert zu ^"%s^"
+AFK_TRANSFER_WARN = Du hast noch %i Sekunden Zeit um zu spielen oder du wirst zu den Spectator verschoben.
+AFK_TRANSFER_PLAYER = Spieler ^"%s^" wurde zu den Spectator verschoben, weil er AFK war.
+AFK_KICK_WARN = Du hast noch %i Sekunden Zeit um einen Team zu joinen oder du wirst gekickt.
+AFK_KICK_PLAYER = Spieler ^"%s^" wurde gekickt weil er AFK war.
+AFK_KICK_REASON = Du wurdest gekickt weil du AFK warst.
+
+[es]
+AFK_GOT_BOMB = Tienes la bomba!
+AFK_TRANSFER_BOMB = La bomba ha sido transferida a ^"%s^"
+AFK_TRANSFER_WARN = Tienes %i segundos para comenzar a jugar o seras transferido a los espectadores.
+AFK_TRANSFER_PLAYER = El jugador ^"%s^" fue transferido a los espectadores por estar AFK.
+AFK_KICK_WARN = Tienes %i segundos para entrar en un equipo o seras expulsado.
+AFK_KICK_PLAYER = El jugador ^"%s^" fue expulsado por estar AFK.
+AFK_KICK_REASON = Fuiste expulsado por estar AFK.
+
+[tr]
+AFK_GOT_BOMB = Bomba sende!
+AFK_TRANSFER_BOMB = Bomba ^"%s^"'e gitti!
+AFK_TRANSFER_WARN = %i saniyen var oynamak icin, yoksa sehircilere dahil edileceksin!
+AFK_TRANSFER_PLAYER = ^"%s^" sehircilere dahil edildi!
+AFK_KICK_WARN = %i icinde bir Team sec yoksa serverden atilacaksin!
+AFK_KICK_PLAYER = ^"%s^" AFK diye serverden atildi!
+AFK_KICK_REASON = AFK'sin diye atildin!
+
+[pl]
+AFK_GOT_BOMB = Dostales bombe!
+AFK_TRANSFER_BOMB = Bomba przeniesiona do ^"%s^"
+AFK_TRANSFER_WARN = Masz %i sekund zeby zaczac grac albo zostaniesz przeniesiony do obserwatorow.
+AFK_TRANSFER_PLAYER = Gracz ^"%s^" was transfered to the spectators for being AFK.
+AFK_KICK_WARN = Masz %i sekund zeby dojsc do druzyny albo zostaniesz wyrzucony.
+AFK_KICK_PLAYER = Gracz ^"%s^" zostal wyrzucony za nieaktywnosc.
+AFK_KICK_REASON = Zostales wyrzucony za nieaktywnosc.
+
+[ro]
+AFK_GOT_BOMB = Ai luat bomba!
+AFK_TRANSFER_BOMB = Bomba a fost transferata lui ^"%s^"
+AFK_TRANSFER_WARN = Ai %i secunde sa te misti sau vei fi transferat la spectatori.
+AFK_TRANSFER_PLAYER = Jucatorul ^"%s^" a fost transferat la spectatori pentru ca a fost AFK.
+AFK_KICK_WARN = Ai %i secunde sa intri intr-o echipa sau vei primi kick.
+AFK_TRANSFER_PLAYER = Jucatorul ^"%s^" a primit kick pentru ca a fost AFK.
+AFK_KICK_REASON = Ai primit kick pentru ca ai fost AFK.
+
+[sv]
+AFK_GOT_BOMB = Du har bomben!
+AFK_TRANSFER_BOMB = Bomben 'o'verf'o'rd till ^"%s^"
+AFK_TRANSFER_WARN = Du har %i sekunder att r'o'ra pa dig annars blir du 'o'verskickad till spectator.
+AFK_TRANSFER_PLAYER = ^"%s^" blev 'o'verf'o'rd till spectator f'o'r att han/hon var AFK.
+AFK_KICK_WARN = Du har %i sekunder pa att r'o'ra dig annars blir du kickad.
+AFK_KICK_PLAYER = ^"%s^" blev kickad f'o'r att ha varit AFK.
+AFK_KICK_REASON = Du blev kickad f'o'r att du var AFK.
+
+[bg]
+AFK_GOT_BOMB = Vie vzehte bombata!
+AFK_TRANSFER_BOMB = Bombata e transferirana kum ^"%s^"
+AFK_TRANSFER_WARN = Imate %i sekundi da zapochnete da igraete ili shte budete transferiran kum nablyudatelite.
+AFK_TRANSFER_PLAYER = Igrachut ^"%s^" beshe transferiran kum nablyudatelite, zashtoto e AFK.
+AFK_KICK_WARN = Vie imate %i sekundi da izberete otbor, inache shte budete izritan.
+AFK_KICK_PLAYER = Igrachut ^"%s^" beshe izritan, zashtoto e AFK.
+AFK_KICK_REASON = Vie byahte izritan, zashtoto ste AFK.

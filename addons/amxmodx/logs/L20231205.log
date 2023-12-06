@@ -1,0 +1,551 @@
+L 12/05/2023 - 00:14:46: -------- Mapchange to cs_assault --------
+L 12/05/2023 - 00:14:52: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_assault.
+L 12/05/2023 - 00:14:52: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 00:32:57: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 00:33:12: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 12/05/2023 - 00:35:06: -------- Mapchange to de_airstrip --------
+L 12/05/2023 - 00:35:06: [csdm_spawn_preset.amxx] Loaded 38 spawn points for map de_airstrip.
+L 12/05/2023 - 00:35:06: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 00:53:06: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 00:53:21: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 12/05/2023 - 00:55:16: -------- Mapchange to cs_havana --------
+L 12/05/2023 - 00:55:16: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_havana.
+L 12/05/2023 - 00:55:16: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 01:13:16: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 01:13:31: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_torn
+L 12/05/2023 - 01:15:26: -------- Mapchange to de_torn --------
+L 12/05/2023 - 01:15:26: [csdm_spawn_preset.amxx] Loaded 21 spawn points for map de_torn.
+L 12/05/2023 - 01:15:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 01:18:19: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 01:18:20: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 01:18:20: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 01:18:20: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" kicked due to invalid password (account "Ricky_Khats") (address "192.168.0.13")
+L 12/05/2023 - 01:18:20: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" kicked due to invalid password (account "Ricky_Khats") (address "192.168.0.13")
+L 12/05/2023 - 01:18:20: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" kicked due to invalid password (account "Ricky_Khats") (address "192.168.0.13")
+L 12/05/2023 - 01:18:36: [admin.amxx] Login: "Ricky_Khats<19><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 01:18:42: [admin.amxx] Login: "Ricky_Khats<20><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 01:27:23: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 01:27:23: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 01:27:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 01:27:23: [admin.amxx] Login: "Ricky_Khats<20><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 01:27:23: [admin.amxx] Login: "Ricky_Khats<20><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 01:27:28: [admin.amxx] Login: "Ricky_Khats<23><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 01:40:39: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 01:40:42: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 01:40:42: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 01:41:25: [admin.amxx] Login: "Ricky_Khats<26><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 01:41:31: [admin.amxx] Login: "Ricky_Khats<27><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 01:45:49: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 01:45:50: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 01:45:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 01:45:53: [admin.amxx] Login: "Ricky_Khats<30><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:04:03: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 02:04:18: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 12/05/2023 - 02:06:12: -------- Mapchange to de_dust --------
+L 12/05/2023 - 02:06:13: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 12/05/2023 - 02:06:13: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 02:06:47: [admin.amxx] Login: "Ricky_Khats<33><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:06:53: [admin.amxx] Login: "Ricky_Khats<34><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:18:18: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 02:18:19: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 02:18:19: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 02:18:31: [admin.amxx] Login: "Ricky_Khats<34><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:18:32: [admin.amxx] Login: "Ricky_Khats<34><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:20:46: -------- Mapchange to cs_assault --------
+L 12/05/2023 - 02:20:47: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_assault.
+L 12/05/2023 - 02:20:47: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 02:21:02: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:26:49: -------- Mapchange to cs_assault --------
+L 12/05/2023 - 02:26:50: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_assault.
+L 12/05/2023 - 02:26:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 02:27:13: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:31:25: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 02:31:26: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 02:31:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 02:31:55: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:33:42: [admin.amxx] Login: "Ricky_Khats<13><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 02:38:15: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 02:38:15: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 02:38:15: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 02:38:20: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 05:59:38: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 05:59:38: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 05:59:39: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 05:59:39: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:02:14: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:13:12: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:13:13: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:13:13: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:13:14: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:13:14: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:13:14: [admin.amxx] Login: "Ricky_Khats<14><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:17:38: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:17:38: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:17:38: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:17:39: [admin.amxx] Login: "Ricky_Khats<14><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:20:32: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:20:32: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 06:20:32: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:20:32: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:21:46: [admin.amxx] Login: "Ricky_Khats<8><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:38:33: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 06:38:48: [mapchooser.amxx] Vote: Voting for the nextmap finished. Map de_dust2 will be extended to next 15 minutes
+L 12/05/2023 - 06:39:51: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:39:51: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 06:39:52: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:39:52: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:40:04: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:41:16: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:41:17: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:41:17: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:41:17: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:41:17: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:41:17: [admin.amxx] Login: "Ricky_Khats<13><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:46:06: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:46:06: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 06:46:06: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:46:06: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:46:23: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:46:26: [admin.amxx] Login: "Ricky_Khats<13><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:49:28: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:49:28: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 06:49:29: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:49:29: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:50:14: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:50:14: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:50:14: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:50:22: [admin.amxx] Login: "Ricky_Khats<19><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 06:56:21: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 06:56:21: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 06:56:21: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 06:56:21: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 06:56:34: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:05:27: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 07:05:27: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 07:05:28: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 07:05:28: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 07:05:36: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:07:31: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 07:07:32: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 07:07:32: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 07:07:33: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:07:33: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:07:33: [admin.amxx] Login: "Ricky_Khats<9><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:07:36: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:17:44: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 07:17:44: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 07:17:44: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 07:17:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 07:17:54: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:26:09: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 07:26:09: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 07:26:09: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 07:26:10: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:26:10: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:28:37: [admin.amxx] Login: "Ricky_Khats<6><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:29:50: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 07:29:50: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 07:29:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 07:29:51: [admin.amxx] Login: "Ricky_Khats<6><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:33:21: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 07:33:21: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 07:33:21: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 07:33:21: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 07:34:48: [admin.amxx] Login: "Ricky_Khats<12><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 07:58:14: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 07:58:14: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 12/05/2023 - 07:58:15: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 07:58:15: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 07:58:26: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 08:16:15: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 08:16:30: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 12/05/2023 - 08:18:24: -------- Mapchange to de_airstrip --------
+L 12/05/2023 - 08:18:25: [csdm_spawn_preset.amxx] Loaded 38 spawn points for map de_airstrip.
+L 12/05/2023 - 08:18:25: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 08:36:24: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 08:36:39: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 12/05/2023 - 08:38:34: -------- Mapchange to cs_havana --------
+L 12/05/2023 - 08:38:34: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_havana.
+L 12/05/2023 - 08:38:34: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 08:56:34: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 08:56:49: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 12/05/2023 - 08:58:43: -------- Mapchange to de_chateau --------
+L 12/05/2023 - 08:58:44: [csdm_spawn_preset.amxx] Loaded 35 spawn points for map de_chateau.
+L 12/05/2023 - 08:58:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 09:16:43: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 09:16:58: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 12/05/2023 - 09:18:53: -------- Mapchange to de_aztec --------
+L 12/05/2023 - 09:18:53: [csdm_spawn_preset.amxx] Loaded 34 spawn points for map de_aztec.
+L 12/05/2023 - 09:18:53: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 09:36:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 09:37:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 12/05/2023 - 09:39:02: -------- Mapchange to as_oilrig --------
+L 12/05/2023 - 09:39:03: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\as_oilrig.spawns.cfg)
+L 12/05/2023 - 09:39:03: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 09:57:02: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 09:57:17: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 12/05/2023 - 09:59:11: -------- Mapchange to cs_siege --------
+L 12/05/2023 - 09:59:12: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_siege.
+L 12/05/2023 - 09:59:12: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 10:17:11: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 10:17:26: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 12/05/2023 - 10:19:21: -------- Mapchange to de_cbble --------
+L 12/05/2023 - 10:19:21: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_cbble.
+L 12/05/2023 - 10:19:21: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 10:37:21: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 10:37:36: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 12/05/2023 - 10:39:30: -------- Mapchange to de_dust --------
+L 12/05/2023 - 10:39:30: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 12/05/2023 - 10:39:30: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 10:57:30: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 10:57:45: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_747
+L 12/05/2023 - 10:59:39: -------- Mapchange to cs_747 --------
+L 12/05/2023 - 10:59:40: [csdm_spawn_preset.amxx] Loaded 26 spawn points for map cs_747.
+L 12/05/2023 - 10:59:40: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 11:17:39: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 11:17:54: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_prodigy
+L 12/05/2023 - 11:19:49: -------- Mapchange to de_prodigy --------
+L 12/05/2023 - 11:19:50: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_prodigy.
+L 12/05/2023 - 11:19:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 11:37:49: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 11:38:04: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 12/05/2023 - 11:39:58: -------- Mapchange to cs_assault --------
+L 12/05/2023 - 11:39:59: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_assault.
+L 12/05/2023 - 11:39:59: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 11:57:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 11:58:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_office
+L 12/05/2023 - 12:00:08: -------- Mapchange to cs_office --------
+L 12/05/2023 - 12:00:08: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_office.
+L 12/05/2023 - 12:00:08: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 12:18:08: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 12:18:23: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 12/05/2023 - 12:20:17: -------- Mapchange to cs_italy --------
+L 12/05/2023 - 12:20:18: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_italy.
+L 12/05/2023 - 12:20:18: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 12:38:17: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 12:38:32: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_backalley
+L 12/05/2023 - 12:40:27: -------- Mapchange to cs_backalley --------
+L 12/05/2023 - 12:40:27: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_backalley.
+L 12/05/2023 - 12:40:27: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 12:58:27: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 12:58:42: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_militia
+L 12/05/2023 - 13:00:36: -------- Mapchange to cs_militia --------
+L 12/05/2023 - 13:00:37: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_militia.
+L 12/05/2023 - 13:00:37: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 13:18:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 13:18:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 12/05/2023 - 13:20:45: -------- Mapchange to de_train --------
+L 12/05/2023 - 13:20:46: [csdm_spawn_preset.amxx] Loaded 23 spawn points for map de_train.
+L 12/05/2023 - 13:20:46: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 13:38:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 13:39:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 12/05/2023 - 13:40:55: -------- Mapchange to de_airstrip --------
+L 12/05/2023 - 13:40:55: [csdm_spawn_preset.amxx] Loaded 38 spawn points for map de_airstrip.
+L 12/05/2023 - 13:40:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 13:58:55: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 13:59:10: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 12/05/2023 - 14:01:04: -------- Mapchange to cs_havana --------
+L 12/05/2023 - 14:01:04: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_havana.
+L 12/05/2023 - 14:01:04: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 14:19:04: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 14:19:19: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 12/05/2023 - 14:21:13: -------- Mapchange to de_chateau --------
+L 12/05/2023 - 14:21:14: [csdm_spawn_preset.amxx] Loaded 35 spawn points for map de_chateau.
+L 12/05/2023 - 14:21:14: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 14:39:13: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 14:39:28: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 12/05/2023 - 14:41:22: -------- Mapchange to de_aztec --------
+L 12/05/2023 - 14:41:23: [csdm_spawn_preset.amxx] Loaded 34 spawn points for map de_aztec.
+L 12/05/2023 - 14:41:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 14:59:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 14:59:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 12/05/2023 - 15:01:31: -------- Mapchange to as_oilrig --------
+L 12/05/2023 - 15:01:32: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\as_oilrig.spawns.cfg)
+L 12/05/2023 - 15:01:32: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 15:19:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 15:19:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 12/05/2023 - 15:21:40: -------- Mapchange to cs_siege --------
+L 12/05/2023 - 15:21:41: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_siege.
+L 12/05/2023 - 15:21:41: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 15:39:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 15:39:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 12/05/2023 - 15:41:49: -------- Mapchange to de_cbble --------
+L 12/05/2023 - 15:41:50: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_cbble.
+L 12/05/2023 - 15:41:50: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 15:59:49: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 16:00:04: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 12/05/2023 - 16:01:59: -------- Mapchange to de_dust --------
+L 12/05/2023 - 16:01:59: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 12/05/2023 - 16:01:59: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 16:19:59: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 16:20:14: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_747
+L 12/05/2023 - 16:22:08: -------- Mapchange to cs_747 --------
+L 12/05/2023 - 16:22:08: [csdm_spawn_preset.amxx] Loaded 26 spawn points for map cs_747.
+L 12/05/2023 - 16:22:08: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 16:40:08: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 16:40:23: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_prodigy
+L 12/05/2023 - 16:42:17: -------- Mapchange to de_prodigy --------
+L 12/05/2023 - 16:42:17: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_prodigy.
+L 12/05/2023 - 16:42:17: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 17:00:17: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 17:00:32: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 12/05/2023 - 17:02:26: -------- Mapchange to cs_assault --------
+L 12/05/2023 - 17:02:27: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_assault.
+L 12/05/2023 - 17:02:27: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 17:20:27: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 17:20:42: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_office
+L 12/05/2023 - 17:22:36: -------- Mapchange to cs_office --------
+L 12/05/2023 - 17:22:37: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_office.
+L 12/05/2023 - 17:22:37: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 17:40:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 17:40:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 12/05/2023 - 17:42:45: -------- Mapchange to cs_italy --------
+L 12/05/2023 - 17:42:46: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_italy.
+L 12/05/2023 - 17:42:46: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 18:00:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 18:01:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_backalley
+L 12/05/2023 - 18:02:54: -------- Mapchange to cs_backalley --------
+L 12/05/2023 - 18:02:55: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_backalley.
+L 12/05/2023 - 18:02:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 18:20:55: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 18:21:10: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_militia
+L 12/05/2023 - 18:23:04: -------- Mapchange to cs_militia --------
+L 12/05/2023 - 18:23:05: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_militia.
+L 12/05/2023 - 18:23:05: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 18:38:08: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 18:38:09: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 18:38:09: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 18:38:36: [admin.amxx] Login: "Ricky_Khats<68><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 18:39:22: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 18:39:23: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 18:39:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 18:39:23: [admin.amxx] Login: "Ricky_Khats<68><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 18:40:57: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 18:40:58: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 18:40:58: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 18:40:58: [admin.amxx] Login: "Ricky_Khats<68><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 18:44:27: [admin.amxx] Login: "Ricky_Khats<73><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 18:51:11: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 18:51:11: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 18:51:11: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 18:51:12: [admin.amxx] Login: "Ricky_Khats<73><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 18:51:12: [admin.amxx] Login: "Ricky_Khats<73><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 18:51:12: [admin.amxx] Login: "Ricky_Khats<74><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:06:49: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:06:49: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:06:49: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:06:49: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:06:50: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:06:50: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:06:50: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:06:51: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:06:51: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:07:50: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:12:44: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:12:44: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:12:44: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:12:45: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:12:45: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:12:45: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:12:45: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:12:46: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:13:42: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:13:42: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:13:42: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:13:43: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:13:43: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:13:44: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:13:44: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:13:44: [admin.amxx] Login: "Ricky_Khats<7><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:15:50: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:15:51: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:15:51: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:15:51: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:15:51: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:15:52: [admin.amxx] Login: "Ricky_Khats<7><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:15:52: [admin.amxx] Login: "Ricky_Khats<7><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:15:52: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:16:27: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:16:27: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:16:27: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:16:28: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:16:28: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:16:28: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:16:28: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:16:28: [admin.amxx] Login: "Ricky_Khats<13><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:17:40: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:17:40: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:17:40: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:17:41: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:17:41: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:17:41: [admin.amxx] Login: "Ricky_Khats<13><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:17:41: [admin.amxx] Login: "Ricky_Khats<13><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:17:42: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:20:33: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:20:33: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:20:33: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:20:33: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:20:33: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:20:33: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:20:33: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:20:33: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:20:34: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:20:34: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:22:23: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:22:23: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:22:23: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:22:23: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:22:23: Error:
+L 12/05/2023 - 19:22:23: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 12/05/2023 - 19:22:23: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:22:24: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:22:24: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:22:24: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:22:24: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:22:24: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:25:28: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:25:28: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:25:28: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:25:28: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:25:28: Error:
+L 12/05/2023 - 19:25:28: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 12/05/2023 - 19:25:28: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:25:29: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:25:29: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:25:29: [AMXX] Plugin "tesla.amxx" failed to load: Plugin uses an unknown function (name "get_sentry_team") - check your modules.ini.
+L 12/05/2023 - 19:25:29: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:25:29: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:43:28: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:43:28: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:43:28: [AMXX] Plugin "reapi_dispenser.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 12/05/2023 - 19:44:30: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:44:30: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:44:30: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:44:30: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:44:30: Error:
+L 12/05/2023 - 19:44:30: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 12/05/2023 - 19:44:30: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:44:30: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:44:31: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:44:31: [AMXX] Plugin "reapi_dispenser.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 12/05/2023 - 19:44:41: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:44:41: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:44:41: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:44:41: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:44:41: Error:
+L 12/05/2023 - 19:44:41: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 12/05/2023 - 19:44:41: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:44:42: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:44:42: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:44:42: [AMXX] Plugin "reapi_dispenser.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 12/05/2023 - 19:44:43: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:44:43: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:45:06: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:48:15: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:50:45: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:50:45: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:50:45: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:50:45: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:50:45: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:50:46: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:50:46: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:51:32: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:51:32: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:51:32: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:51:32: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:51:32: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:51:33: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:51:33: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:51:51: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 19:51:51: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 19:51:51: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 19:51:51: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 19:51:51: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 19:51:52: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 19:51:52: [AMXX] Plugin "colored_translit.amxx" failed to load: Plugin uses an unknown function (name "geoip_code3") - check your modules.ini.
+L 12/05/2023 - 19:51:52: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 19:51:52: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 19:52:17: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 19:52:51: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 20:03:22: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 20:03:23: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 20:03:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 20:03:24: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 20:11:25: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/05/2023 - 20:11:25: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/05/2023 - 20:11:25: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/05/2023 - 20:11:25: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/05/2023 - 20:11:25: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/05/2023 - 20:11:25: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 20:11:26: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 20:11:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 20:11:52: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 20:14:14: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 20:29:27: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 20:29:42: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 12/05/2023 - 20:31:37: -------- Mapchange to de_airstrip --------
+L 12/05/2023 - 20:31:37: [csdm_spawn_preset.amxx] Loaded 38 spawn points for map de_airstrip.
+L 12/05/2023 - 20:31:37: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 20:31:38: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 20:49:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 20:49:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 12/05/2023 - 20:51:46: -------- Mapchange to cs_havana --------
+L 12/05/2023 - 20:51:47: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_havana.
+L 12/05/2023 - 20:51:47: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 20:51:48: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 21:09:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 21:10:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 12/05/2023 - 21:11:56: -------- Mapchange to de_chateau --------
+L 12/05/2023 - 21:11:57: [csdm_spawn_preset.amxx] Loaded 35 spawn points for map de_chateau.
+L 12/05/2023 - 21:11:57: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 21:11:57: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 21:29:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 21:30:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 12/05/2023 - 21:32:06: -------- Mapchange to de_aztec --------
+L 12/05/2023 - 21:32:06: [csdm_spawn_preset.amxx] Loaded 34 spawn points for map de_aztec.
+L 12/05/2023 - 21:32:06: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 21:32:07: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 21:50:06: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 21:50:21: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 12/05/2023 - 21:52:15: -------- Mapchange to as_oilrig --------
+L 12/05/2023 - 21:52:16: [csdm_spawn_preset.amxx] No spawn points file found (addons/amxmodx/configs\csdm\as_oilrig.spawns.cfg)
+L 12/05/2023 - 21:52:16: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 21:52:17: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 22:10:15: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 22:10:30: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 12/05/2023 - 22:12:25: -------- Mapchange to cs_siege --------
+L 12/05/2023 - 22:12:26: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_siege.
+L 12/05/2023 - 22:12:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 22:12:26: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 22:23:57: -------- Mapchange to de_dust2 --------
+L 12/05/2023 - 22:23:58: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/05/2023 - 22:23:58: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 22:23:59: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 22:23:59: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 22:23:59: [admin.amxx] Login: "Ricky_Khats<17><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 22:41:59: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 22:42:14: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 12/05/2023 - 22:44:09: -------- Mapchange to de_dust --------
+L 12/05/2023 - 22:44:18: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 12/05/2023 - 22:44:18: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 22:44:19: [admin.amxx] Login: "Ricky_Khats<17><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 23:02:17: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 23:02:32: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_747
+L 12/05/2023 - 23:04:27: -------- Mapchange to cs_747 --------
+L 12/05/2023 - 23:04:28: [csdm_spawn_preset.amxx] Loaded 26 spawn points for map cs_747.
+L 12/05/2023 - 23:04:28: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 23:04:28: [admin.amxx] Login: "Ricky_Khats<17><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 23:22:27: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 23:22:42: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_prodigy
+L 12/05/2023 - 23:24:37: -------- Mapchange to de_prodigy --------
+L 12/05/2023 - 23:24:38: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_prodigy.
+L 12/05/2023 - 23:24:38: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 23:24:38: [admin.amxx] Login: "Ricky_Khats<17><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 23:24:39: [admin.amxx] Login: "Ricky_Khats<17><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 23:24:39: [admin.amxx] Login: "Ricky_Khats<24><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/05/2023 - 23:42:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/05/2023 - 23:42:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 12/05/2023 - 23:44:47: -------- Mapchange to cs_assault --------
+L 12/05/2023 - 23:44:48: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_assault.
+L 12/05/2023 - 23:44:48: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/05/2023 - 23:44:48: [admin.amxx] Login: "Ricky_Khats<24><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")

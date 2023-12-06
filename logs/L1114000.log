@@ -1,0 +1,89 @@
+L 11/14/2012 - 21:01:20: Log file started (file "logs\L1114000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 11/14/2012 - 21:01:20: Server cvar "mp_autokick" = "0"
+L 11/14/2012 - 21:01:20: Server cvar "mp_autoteambalance" = "0"
+L 11/14/2012 - 21:01:20: Server cvar "mp_buytime" = "0.30"
+L 11/14/2012 - 21:01:20: Server cvar "mp_c4timer" = "35"
+L 11/14/2012 - 21:01:20: Server cvar "mp_flashlight" = "1"
+L 11/14/2012 - 21:01:20: Server cvar "mp_freezetime" = "0"
+L 11/14/2012 - 21:01:20: Server cvar "mp_hostagepenalty" = "0"
+L 11/14/2012 - 21:01:20: Server cvar "mp_limitteams" = "0"
+L 11/14/2012 - 21:01:20: Server cvar "mp_roundtime" = "2.10"
+L 11/14/2012 - 21:01:20: Server cvar "mp_timelimit" = "20"
+L 11/14/2012 - 21:01:20: Server cvar "sv_aim" = "0"
+L 11/14/2012 - 21:01:20: Server cvar "sv_maxspeed" = "320"
+L 11/14/2012 - 21:01:20: Server cvar "sv_maxrate" = "25000"
+L 11/14/2012 - 21:01:28: World triggered "Round_Start"
+L 11/14/2012 - 21:03:41: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 042D14A0
+L 11/14/2012 - 21:03:41: "Admin<1><STEAM_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/14/2012 - 21:04:55: "Admin<1><STEAM_ID_LAN><>" entered the game
+L 11/14/2012 - 21:05:01: "Admin<1><STEAM_ID_LAN><>" joined team "CT"
+L 11/14/2012 - 21:05:07: "Admin<1><STEAM_ID_LAN><CT>" committed suicide with "world"
+L 11/14/2012 - 21:05:07: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/14/2012 - 21:05:07: World triggered "Round_End"
+L 11/14/2012 - 21:05:07: "Admin<1><STEAM_ID_LAN><CT>" joined team "TERRORIST"
+L 11/14/2012 - 21:05:08: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/14/2012 - 21:05:08: World triggered "Round_End"
+L 11/14/2012 - 21:05:13: "Admin<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 11/14/2012 - 21:05:13: World triggered "Round_Start"
+L 11/14/2012 - 21:05:13: "Admin<1><STEAM_ID_LAN><TERRORIST>" committed suicide with "world"
+L 11/14/2012 - 21:05:13: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/14/2012 - 21:05:13: World triggered "Round_End"
+L 11/14/2012 - 21:05:13: "Admin<1><STEAM_ID_LAN><TERRORIST>" joined team "CT"
+L 11/14/2012 - 21:05:14: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/14/2012 - 21:05:14: World triggered "Round_End"
+L 11/14/2012 - 21:05:19: World triggered "Round_Start"
+L 11/14/2012 - 21:05:19: Server cvar "sv_restart" = "1"
+L 11/14/2012 - 21:05:19: "Admin<1><STEAM_ID_LAN><CT>" say "/rr"
+L 11/14/2012 - 21:05:19: World triggered "Restart_Round_(1_second)"
+L 11/14/2012 - 21:05:19: Team "CT" scored "0" with "1" players
+L 11/14/2012 - 21:05:19: Team "TERRORIST" scored "0" with "0" players
+L 11/14/2012 - 21:05:19: Server cvar "sv_restart" = "0"
+L 11/14/2012 - 21:05:20: World triggered "Round_Start"
+L 11/14/2012 - 21:05:50: "Admin<1><STEAM_ID_LAN><CT>" changed name to "Admin3"
+L 11/14/2012 - 21:05:53: Server cvar "sv_restart" = "1"
+L 11/14/2012 - 21:05:53: "Admin3<1><STEAM_ID_LAN><CT>" say "/rr"
+L 11/14/2012 - 21:05:53: World triggered "Restart_Round_(1_second)"
+L 11/14/2012 - 21:05:53: Team "CT" scored "0" with "1" players
+L 11/14/2012 - 21:05:53: Team "TERRORIST" scored "0" with "0" players
+L 11/14/2012 - 21:05:53: Server cvar "sv_restart" = "0"
+L 11/14/2012 - 21:05:54: World triggered "Round_Start"
+L 11/14/2012 - 21:06:05: Server cvar "sv_restart" = "1"
+L 11/14/2012 - 21:06:05: "Admin3<1><STEAM_ID_LAN><CT>" say "/rr"
+L 11/14/2012 - 21:06:05: World triggered "Restart_Round_(1_second)"
+L 11/14/2012 - 21:06:05: Team "CT" scored "0" with "1" players
+L 11/14/2012 - 21:06:05: Team "TERRORIST" scored "0" with "0" players
+L 11/14/2012 - 21:06:05: Server cvar "sv_restart" = "0"
+L 11/14/2012 - 21:06:06: World triggered "Round_Start"
+L 11/14/2012 - 21:06:09: Server cvar "sv_restart" = "1"
+L 11/14/2012 - 21:06:09: "Admin3<1><STEAM_ID_LAN><CT>" say "/rr"
+L 11/14/2012 - 21:06:09: World triggered "Restart_Round_(1_second)"
+L 11/14/2012 - 21:06:09: Team "CT" scored "0" with "1" players
+L 11/14/2012 - 21:06:09: Team "TERRORIST" scored "0" with "0" players
+L 11/14/2012 - 21:06:09: Server cvar "sv_restart" = "0"
+L 11/14/2012 - 21:06:10: World triggered "Round_Start"
+L 11/14/2012 - 21:06:11: Server cvar "sv_restart" = "1"
+L 11/14/2012 - 21:06:11: "Admin3<1><STEAM_ID_LAN><CT>" say "/rr"
+L 11/14/2012 - 21:06:11: World triggered "Restart_Round_(1_second)"
+L 11/14/2012 - 21:06:11: Team "CT" scored "0" with "1" players
+L 11/14/2012 - 21:06:11: Team "TERRORIST" scored "0" with "0" players
+L 11/14/2012 - 21:06:11: Server cvar "sv_restart" = "0"
+L 11/14/2012 - 21:06:12: World triggered "Round_Start"
+L 11/14/2012 - 21:06:14: Server cvar "sv_restart" = "1"
+L 11/14/2012 - 21:06:14: "Admin3<1><STEAM_ID_LAN><CT>" say "/rr"
+L 11/14/2012 - 21:06:14: World triggered "Restart_Round_(1_second)"
+L 11/14/2012 - 21:06:14: Team "CT" scored "0" with "1" players
+L 11/14/2012 - 21:06:14: Team "TERRORIST" scored "0" with "0" players
+L 11/14/2012 - 21:06:14: Server cvar "sv_restart" = "0"
+L 11/14/2012 - 21:06:15: World triggered "Round_Start"
+L 11/14/2012 - 21:06:43: [META] ini: Begin re-reading plugins list: d:/server/cstrike/addons/metamod/plugins.ini
+L 11/14/2012 - 21:06:43: [META] ini: Read plugin config for: AMX Mod X
+L 11/14/2012 - 21:06:43: [META] ini: Read plugin config for: dproto
+L 11/14/2012 - 21:06:43: [META] ini: Read plugin config for: mmtimer
+L 11/14/2012 - 21:06:43: [META] ini: Finished reading plugins list: d:/server/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 11/14/2012 - 21:06:43: [META] dll: Updating plugins...
+L 11/14/2012 - 21:06:43: [META] dll: Finished updating 9 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/14/2012 - 21:06:43: "Admin3<-1><><CT>" disconnected
+L 11/14/2012 - 21:06:43: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/14/2012 - 21:06:43: World triggered "Round_End"
+L 11/14/2012 - 21:06:43: Server shutdown
+L 11/14/2012 - 21:06:43: Log file closed

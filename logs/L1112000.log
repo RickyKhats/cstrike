@@ -1,0 +1,50 @@
+L 11/12/2012 - 15:07:27: Log file started (file "logs\L1112000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 11/12/2012 - 15:07:27: Server cvar "mp_autokick" = "0"
+L 11/12/2012 - 15:07:27: Server cvar "mp_autoteambalance" = "0"
+L 11/12/2012 - 15:07:27: Server cvar "mp_buytime" = "0.30"
+L 11/12/2012 - 15:07:27: Server cvar "mp_c4timer" = "35"
+L 11/12/2012 - 15:07:27: Server cvar "mp_flashlight" = "1"
+L 11/12/2012 - 15:07:27: Server cvar "mp_freezetime" = "0"
+L 11/12/2012 - 15:07:27: Server cvar "mp_hostagepenalty" = "0"
+L 11/12/2012 - 15:07:27: Server cvar "mp_limitteams" = "0"
+L 11/12/2012 - 15:07:27: Server cvar "mp_roundtime" = "2.10"
+L 11/12/2012 - 15:07:27: Server cvar "mp_timelimit" = "20"
+L 11/12/2012 - 15:07:27: Server cvar "sv_aim" = "0"
+L 11/12/2012 - 15:07:27: Server cvar "sv_maxspeed" = "320"
+L 11/12/2012 - 15:07:27: Server cvar "sv_maxrate" = "25000"
+L 11/12/2012 - 15:07:34: World triggered "Round_Start"
+L 11/12/2012 - 15:12:34: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 11/12/2012 - 15:12:34: World triggered "Round_End"
+L 11/12/2012 - 15:12:39: World triggered "Round_Start"
+L 11/12/2012 - 15:14:44: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 11/12/2012 - 15:14:44: World triggered "Round_End"
+L 11/12/2012 - 15:14:49: World triggered "Round_Start"
+L 11/12/2012 - 15:16:54: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 11/12/2012 - 15:16:54: World triggered "Round_End"
+L 11/12/2012 - 15:16:59: World triggered "Round_Start"
+L 11/12/2012 - 15:19:04: Team "CT" triggered "Target_Saved" (CT "4") (T "0")
+L 11/12/2012 - 15:19:04: World triggered "Round_End"
+L 11/12/2012 - 15:19:09: World triggered "Round_Start"
+L 11/12/2012 - 15:21:14: Team "CT" triggered "Target_Saved" (CT "5") (T "0")
+L 11/12/2012 - 15:21:14: World triggered "Round_End"
+L 11/12/2012 - 15:21:19: World triggered "Round_Start"
+L 11/12/2012 - 15:23:24: Team "CT" triggered "Target_Saved" (CT "6") (T "0")
+L 11/12/2012 - 15:23:24: World triggered "Round_End"
+L 11/12/2012 - 15:23:29: World triggered "Round_Start"
+L 11/12/2012 - 15:25:34: Team "CT" triggered "Target_Saved" (CT "7") (T "0")
+L 11/12/2012 - 15:25:34: World triggered "Round_End"
+L 11/12/2012 - 15:25:39: World triggered "Round_Start"
+L 11/12/2012 - 15:27:25: Team "CT" scored "7" with "0" players
+L 11/12/2012 - 15:27:25: Team "TERRORIST" scored "0" with "0" players
+L 11/12/2012 - 15:27:25: Server cvar "mp_chattime" = "12"
+L 11/12/2012 - 15:27:35: Server cvar "mp_chattime" = "10"
+L 11/12/2012 - 15:27:35: [META] ini: Begin re-reading plugins list: d:/server/cstrike/addons/metamod/plugins.ini
+L 11/12/2012 - 15:27:35: [META] ini: Read plugin config for: AMX Mod X
+L 11/12/2012 - 15:27:35: [META] ini: Read plugin config for: dproto
+L 11/12/2012 - 15:27:35: [META] ini: Read plugin config for: mmtimer
+L 11/12/2012 - 15:27:35: [META] ini: Finished reading plugins list: d:/server/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 11/12/2012 - 15:27:35: [META] dll: Updating plugins...
+L 11/12/2012 - 15:27:35: [META] WARNING: dll: Failed to unload plugin 'dproto' for reloading
+L 11/12/2012 - 15:27:35: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 11/12/2012 - 15:27:35: [META] dll: Finished updating 9 plugins; kept 0, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/12/2012 - 15:27:35: Log file closed

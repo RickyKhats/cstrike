@@ -1,0 +1,40 @@
+L 01/27/2013 - 11:11:31: Log file started (file "logs\L0127002.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 01/27/2013 - 11:11:31: Server cvar "mp_autokick" = "0"
+L 01/27/2013 - 11:11:31: Server cvar "mp_autoteambalance" = "0"
+L 01/27/2013 - 11:11:31: Server cvar "mp_flashlight" = "1"
+L 01/27/2013 - 11:11:31: Server cvar "mp_freezetime" = "0"
+L 01/27/2013 - 11:11:31: Server cvar "mp_limitteams" = "0"
+L 01/27/2013 - 11:11:31: Server cvar "mp_timelimit" = "20"
+L 01/27/2013 - 11:11:31: Server cvar "sv_aim" = "0"
+L 01/27/2013 - 11:11:31: Server cvar "sv_maxspeed" = "320"
+L 01/27/2013 - 11:11:31: Server cvar "sv_maxrate" = "25000"
+L 01/27/2013 - 11:11:31: Server cvar "sv_alltalk" = "1"
+L 01/27/2013 - 11:11:39: World triggered "Round_Start"
+L 01/27/2013 - 11:11:39: ".<1><BOT><>" entered the game
+L 01/27/2013 - 11:11:39: ".<1><BOT><>" joined team "TERRORIST"
+L 01/27/2013 - 11:11:39: ":<2><BOT><>" entered the game
+L 01/27/2013 - 11:11:39: ":<2><BOT><>" joined team "CT"
+L 01/27/2013 - 11:12:54: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05B9B4B0
+L 01/27/2013 - 11:12:54: "MaHb9K<3><STEAM_0:0:670348375><>" connected, address "46.181.130.173:27005"
+L 01/27/2013 - 11:12:57: [DPROTO]: Client 2 - Set AuthIdType 1 [dp_RevEmu]; pClient = 05B9B4B0
+L 01/27/2013 - 11:12:57: "MaHb9K<4><STEAM_0:0:670348375><>" connected, address "46.181.130.173:27005"
+L 01/27/2013 - 11:13:04: "MaHb9K<4><STEAM_0:0:670348375><>" entered the game
+L 01/27/2013 - 11:13:06: "MaHb9K<4><STEAM_0:0:670348375><>" joined team "TERRORIST"
+L 01/27/2013 - 11:15:34: "MaHb9K<4><STEAM_0:0:670348375><TERRORIST>" committed suicide with "world"
+L 01/27/2013 - 11:15:34: "MaHb9K<4><STEAM_0:0:670348375><TERRORIST>" joined team "CT"
+L 01/27/2013 - 11:16:39: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 01/27/2013 - 11:16:39: World triggered "Round_End"
+L 01/27/2013 - 11:16:44: World triggered "Round_Start"
+L 01/27/2013 - 11:20:09: ".<1><BOT><TERRORIST>" disconnected
+L 01/27/2013 - 11:20:09: ":<2><BOT><CT>" disconnected
+L 01/27/2013 - 11:20:09: [META] ini: Begin re-reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 01/27/2013 - 11:20:09: [META] ini: Read plugin config for: AMX Mod X
+L 01/27/2013 - 11:20:09: [META] ini: Read plugin config for: dproto
+L 01/27/2013 - 11:20:09: [META] ini: Read plugin config for: mmtimer
+L 01/27/2013 - 11:20:09: [META] ini: Finished reading plugins list: d:/Сервер/csdm+guns+lm/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 01/27/2013 - 11:20:09: [META] dll: Updating plugins...
+L 01/27/2013 - 11:20:09: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 01/27/2013 - 11:20:09: "MaHb9K<4><STEAM_0:0:670348375><CT>" disconnected
+L 01/27/2013 - 11:20:09: World triggered "Round_Draw" (CT "1") (T "0")
+L 01/27/2013 - 11:20:09: World triggered "Round_End"
+L 01/27/2013 - 11:20:09: Log file closed

@@ -1,0 +1,14 @@
+L 02/05/2013 - 23:56:23: Start of error session.
+L 02/05/2013 - 23:56:23: Info (map "de_train") (file "addons/amxmodx/logs/error_20130205.log")
+L 02/05/2013 - 23:56:23: Invalid menu id 10(12)
+L 02/05/2013 - 23:56:23: [AMXX] Run time error 10 (plugin "menutest.amxx") (native "menu_destroy") - debug not enabled!
+L 02/05/2013 - 23:56:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/05/2013 - 23:56:26: Invalid menu id 10(12)
+L 02/05/2013 - 23:56:26: [AMXX] Run time error 10 (plugin "menutest.amxx") (native "menu_destroy") - debug not enabled!
+L 02/05/2013 - 23:56:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/05/2013 - 23:56:45: Invalid menu id 10(12)
+L 02/05/2013 - 23:56:45: [AMXX] Run time error 10 (plugin "menutest.amxx") (native "menu_destroy") - debug not enabled!
+L 02/05/2013 - 23:56:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/05/2013 - 23:58:16: Invalid menu id 11(12)
+L 02/05/2013 - 23:58:16: [AMXX] Run time error 10 (plugin "menutest.amxx") (native "menu_destroy") - debug not enabled!
+L 02/05/2013 - 23:58:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

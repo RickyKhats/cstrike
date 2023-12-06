@@ -1,0 +1,62 @@
+[ru]
+IR_GOOD = [Server] Вы поднялись на %i место(а) вверх!
+IR_BAD = [Server] Вы опустились на %i место(а) вниз!
+IR_RANK = [Server] Место в статистике: %i из %i
+IR_ENABLE = [Server] Сообщения о месте в статистике включено
+IR_DISABLE = [Server] Сообщения о месте в статистике выключено
+
+[en]
+IR_GOOD = [Info rank] Congratulations, you have advanced %i place(s) !!
+IR_BAD = [Info rank] Noob, you have gone down %i place(s) !!
+IR_RANK = [Info rank] Your rank : %i of %i
+IR_ENABLE = [Info rank] You have enabled messages
+IR_DISABLE = [Info rank] You have disabled messages
+
+[fr]
+IR_GOOD = [Info rank] Bravo, tu as gagnй %i place(s) !!
+IR_BAD = [Info rank] Noob, tu as perdu %i place(s) !!
+IR_RANK = [Info rank] Ton rang : %i sur %i joueurs
+IR_ENABLE = [Info rank] Messages actifs
+IR_DISABLE = [Info rank] Messages inactifs
+
+[nl]
+IR_GOOD = [Info rank] Gefeliciteerd, je bent %i plaats(en) vooruit gegaan!!
+IR_BAD = [Info rank] Noob, je bent %i plaats(en) achteruit gegaan!!
+IR_RANK = [Info rank] Je rank : %i van %i
+IR_ENABLE = [Info rank] Je hebt berichten ingeschakeld
+IR_DISABLE = [Info rank] Je hebt berichten uitgeschakeld
+
+[lt]
+IR_GOOD = [Info rank] Sveikiname, tu pakilai aukstyn per %i vieta(s) !!
+IR_BAD = [Info rank] Mulki, tu nukritai zemyn per %i vieta(s) !!
+IR_RANK = [Info rank] Tavo statistika : %i is %i
+IR_ENABLE = [Info rank] Tu ijungei zinutes
+IR_DISABLE = [Info rank] Tu isjungei zinutes
+
+[es]
+IR_GOOD = [Info rank] Felicidad, Avanzaste %i lugar(es) !!
+IR_BAD = [Info rank] Principiante, Perdiste %i lugar(es) !!
+IR_RANK = [Info rank] Tu rango : %i de %i
+IR_ENABLE = [Info rank] Habilitaste los mensajes de rango
+IR_DISABLE = [Info rank] Deshabilitaste los mensajes de rango
+
+[de]
+IR_GOOD = [Info rank] Glueckwunsch, du bist um %i Pla(e)tz(e) vorgerueckt!!
+IR_BAD = [Info rank] Anfaenger, du bist um %i Pla(e)tz(e) gefallen!!
+IR_RANK = [Info rank] Dein Rang : %i von %i
+IR_ENABLE = [Info rank] Du hast die Nachrichten eingeschaltet.
+IR_DISABLE = [Info rank] Du hast die Nachrichten abgeschaltet.
+
+[bp]
+IR_GOOD = [Info rank] Parabens, subiste %i posicao(oes) !!
+IR_BAD = [Info rank] Noob, desceste %i posicao(oes) !!
+IR_RANK = [Info rank] Teu rank : %i de %i
+IR_ENABLE = [Info rank] Activaste as mensagens
+IR_DISABLE = [Info rank] Desactivaste as mensagens
+
+[LV]
+IR_GOOD = [Info ranks] Apsveicu, Tu esi uz priekљu pavirzijies pa %i vietu(am) !!
+IR_BAD = [Info ranks] Nubs, Tu esi nokrities pa %i vietu(am) !!
+IR_RANK = [Info ranks] Tavs ranks : %i no %i
+IR_ENABLE = [Info ranks] Tu esi iestatijis zinas.
+IR_DISABLE = [Info ranks] Tu esi atsledzis zinas.

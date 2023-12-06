@@ -1,0 +1,43 @@
+L 11/19/2012 - 17:38:15: Log file started (file "logs\L1119000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 11/19/2012 - 17:38:15: Server cvar "mp_autokick" = "0"
+L 11/19/2012 - 17:38:15: Server cvar "mp_autoteambalance" = "0"
+L 11/19/2012 - 17:38:15: Server cvar "mp_flashlight" = "1"
+L 11/19/2012 - 17:38:15: Server cvar "mp_freezetime" = "0"
+L 11/19/2012 - 17:38:15: Server cvar "mp_limitteams" = "0"
+L 11/19/2012 - 17:38:15: Server cvar "mp_timelimit" = "20"
+L 11/19/2012 - 17:38:15: Server cvar "sv_aim" = "0"
+L 11/19/2012 - 17:38:15: Server cvar "sv_maxspeed" = "320"
+L 11/19/2012 - 17:38:15: Server cvar "sv_maxrate" = "25000"
+L 11/19/2012 - 17:38:23: World triggered "Round_Start"
+L 11/19/2012 - 17:38:36: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 042D14A0
+L 11/19/2012 - 17:38:36: "zajimaem . B-ceps<1><STEAM_ID_LAN><>" connected, address "127.0.0.1:27005"
+L 11/19/2012 - 17:38:47: "zajimaem . B-ceps<1><STEAM_ID_LAN><>" entered the game
+L 11/19/2012 - 17:38:51: "zajimaem . B-ceps<1><STEAM_ID_LAN><>" joined team "CT"
+L 11/19/2012 - 17:39:25: Server cvar "sv_restart" = "1"
+L 11/19/2012 - 17:39:25: "zajimaem . B-ceps<1><STEAM_ID_LAN><CT>" say "/rr"
+L 11/19/2012 - 17:39:25: World triggered "Restart_Round_(1_second)"
+L 11/19/2012 - 17:39:25: Team "CT" scored "0" with "1" players
+L 11/19/2012 - 17:39:25: Team "TERRORIST" scored "0" with "0" players
+L 11/19/2012 - 17:39:25: Server cvar "sv_restart" = "0"
+L 11/19/2012 - 17:39:26: World triggered "Round_Start"
+L 11/19/2012 - 17:40:15: "zajimaem . B-ceps<1><STEAM_ID_LAN><CT>" say "/sv"
+L 11/19/2012 - 17:40:19: Server cvar "sv_restart" = "1"
+L 11/19/2012 - 17:40:19: "zajimaem . B-ceps<1><STEAM_ID_LAN><CT>" say "rr"
+L 11/19/2012 - 17:40:20: World triggered "Restart_Round_(1_second)"
+L 11/19/2012 - 17:40:20: Team "CT" scored "0" with "1" players
+L 11/19/2012 - 17:40:20: Team "TERRORIST" scored "0" with "0" players
+L 11/19/2012 - 17:40:20: Server cvar "sv_restart" = "0"
+L 11/19/2012 - 17:40:21: World triggered "Round_Start"
+L 11/19/2012 - 17:40:28: "zajimaem . B-ceps<1><STEAM_ID_LAN><CT>" disconnected
+L 11/19/2012 - 17:40:28: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/19/2012 - 17:40:28: World triggered "Round_End"
+L 11/19/2012 - 17:40:33: World triggered "Round_Start"
+L 11/19/2012 - 17:40:36: [META] ini: Begin re-reading plugins list: d:/csdm+guns+lm/cstrike/addons/metamod/plugins.ini
+L 11/19/2012 - 17:40:36: [META] ini: Read plugin config for: AMX Mod X
+L 11/19/2012 - 17:40:36: [META] ini: Read plugin config for: dproto
+L 11/19/2012 - 17:40:36: [META] ini: Read plugin config for: mmtimer
+L 11/19/2012 - 17:40:36: [META] ini: Finished reading plugins list: d:/csdm+guns+lm/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 11/19/2012 - 17:40:36: [META] dll: Updating plugins...
+L 11/19/2012 - 17:40:36: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/19/2012 - 17:40:37: Server shutdown
+L 11/19/2012 - 17:40:37: Log file closed

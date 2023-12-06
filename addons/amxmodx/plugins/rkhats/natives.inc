@@ -1,0 +1,3 @@
+public plugin_natives() {
+	
+}

@@ -1,0 +1,377 @@
+L 12/06/2023 - 00:02:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/06/2023 - 00:03:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_office
+L 12/06/2023 - 00:04:57: -------- Mapchange to cs_office --------
+L 12/06/2023 - 00:04:58: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_office.
+L 12/06/2023 - 00:04:58: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 00:18:44: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 00:18:44: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 00:18:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 00:20:15: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 00:20:16: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 00:20:16: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 00:20:20: [admin.amxx] Login: "Ricky_Khats<35><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:23:02: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 00:23:03: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 00:23:03: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 00:23:04: [admin.amxx] Login: "Ricky_Khats<35><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:31:41: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 00:31:42: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 00:31:42: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 00:31:43: [admin.amxx] Login: "Ricky_Khats<35><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:31:43: [admin.amxx] Login: "Ricky_Khats<35><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:31:43: [admin.amxx] Login: "Ricky_Khats<38><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:38:40: [admin.amxx] Login: "Ricky_Khats<41><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:47:19: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 00:47:19: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 00:47:19: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 00:47:20: [admin.amxx] Login: "Ricky_Khats<41><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:47:20: [admin.amxx] Login: "Ricky_Khats<41><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 00:47:20: [admin.amxx] Login: "Ricky_Khats<42><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:03:50: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:03:58: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:03:58: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:03:58: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 01:03:58: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 01:03:58: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 01:03:58: [admin.amxx] Login: "Ricky_Khats<42><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:06:53: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:06:54: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:06:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:06:54: [admin.amxx] Login: "Ricky_Khats<42><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:06:55: [admin.amxx] Login: "Ricky_Khats<42><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:06:55: [admin.amxx] Login: "Ricky_Khats<47><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:12:25: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:12:26: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:12:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:12:26: [admin.amxx] Login: "Ricky_Khats<47><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:17:19: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:17:20: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:17:20: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:17:21: [admin.amxx] Login: "Ricky_Khats<47><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:25:28: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:25:29: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:25:29: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:25:30: [admin.amxx] Login: "Ricky_Khats<47><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:25:30: [admin.amxx] Login: "Ricky_Khats<47><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:25:30: [admin.amxx] Login: "Ricky_Khats<54><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:28:07: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 01:28:07: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 01:28:07: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 01:28:07: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 01:28:07: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 01:28:08: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:28:09: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:28:09: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:28:09: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 01:28:09: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 01:28:09: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 01:28:21: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:31:12: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:31:13: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:31:13: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:31:17: [admin.amxx] Login: "Ricky_Khats<6><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:32:29: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 01:32:29: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 01:32:29: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 01:32:29: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 01:32:29: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 01:32:29: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:32:30: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:32:30: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:32:30: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 01:32:30: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 01:32:30: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 01:32:47: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:34:36: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:34:37: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:34:37: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:34:37: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:34:38: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:34:38: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:36:05: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:36:05: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:36:05: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:36:06: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 01:48:57: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 01:48:57: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 01:48:57: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 01:48:57: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 01:48:57: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 01:48:58: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 01:48:59: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 01:48:59: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 01:48:59: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 01:48:59: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 01:48:59: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 01:49:20: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:06:09: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:06:10: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:06:10: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:06:10: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:06:24: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:06:25: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:06:25: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:06:26: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:07:34: [admin.amxx] Login: "Ricky_Khats<8><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:10:55: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:10:56: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:10:56: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:10:57: [admin.amxx] Login: "Ricky_Khats<8><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:10:57: [admin.amxx] Login: "Ricky_Khats<8><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:10:57: [admin.amxx] Login: "Ricky_Khats<9><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:14:58: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 02:14:58: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 02:14:58: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 02:14:58: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 02:14:58: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 02:14:59: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:15:00: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:15:00: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:15:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 02:15:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 02:15:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 02:15:09: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:16:11: [admin.amxx] Login: "Ricky_Khats<14><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:27:14: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 02:27:14: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 02:27:14: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 02:27:14: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 02:27:14: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 02:27:14: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:27:15: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:27:15: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:27:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 02:27:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 02:27:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 02:43:39: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:43:39: [AMXX] Plugin "main.amxx" failed to load: Plugin uses an unknown function (name "lasermine_getCorner") - check your modules.ini.
+L 12/06/2023 - 02:43:39: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:43:39: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:46:14: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:46:15: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:46:15: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:46:32: [admin.amxx] Login: "Ricky_Khats<7><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:49:22: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:49:22: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:49:22: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:49:23: [admin.amxx] Login: "Ricky_Khats<7><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:53:01: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:53:52: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:53:52: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:53:52: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 02:53:53: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 02:56:34: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 02:56:35: [AMXX] Plugin "main.amxx" failed to load: Plugin uses an unknown function (name "dispencer_place") - check your modules.ini.
+L 12/06/2023 - 02:56:35: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 02:56:35: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 03:03:25: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 03:14:36: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/06/2023 - 03:14:51: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 12/06/2023 - 03:16:45: -------- Mapchange to cs_siege --------
+L 12/06/2023 - 03:16:45: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 03:16:45: [AMXX] Plugin "main.amxx" failed to load: Plugin uses an unknown function (name "dispencer_place") - check your modules.ini.
+L 12/06/2023 - 03:16:45: [AMXX] Plugin "mode_lasermine.amxx" failed to load: Plugin uses an unknown function (name "notify_player") - check your modules.ini.
+L 12/06/2023 - 03:16:46: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_siege.
+L 12/06/2023 - 03:16:46: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 03:16:46: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 03:34:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/06/2023 - 03:35:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 12/06/2023 - 03:36:55: -------- Mapchange to de_cbble --------
+L 12/06/2023 - 03:36:55: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 03:36:55: [AMXX] Plugin "main.amxx" failed to load: Plugin uses an unknown function (name "tesla_place") - check your modules.ini.
+L 12/06/2023 - 03:36:55: [AMXX] Plugin "mode_dispenser.amxx" failed to load: Plugin uses an unknown function (name "increase_user_money") - check your modules.ini.
+L 12/06/2023 - 03:36:55: [AMXX] Plugin "mode_lasermine.amxx" failed to load: Plugin uses an unknown function (name "notify_player") - check your modules.ini.
+L 12/06/2023 - 03:36:55: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_cbble.
+L 12/06/2023 - 03:36:55: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 03:36:56: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 03:54:55: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/06/2023 - 03:55:10: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 12/06/2023 - 03:57:04: -------- Mapchange to de_dust --------
+L 12/06/2023 - 03:57:04: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 03:57:04: [AMXX] Plugin "main.amxx" failed to load: Plugin uses an unknown function (name "tesla_place") - check your modules.ini.
+L 12/06/2023 - 03:57:04: [AMXX] Plugin "mode_dispenser.amxx" failed to load: Plugin uses an unknown function (name "increase_user_money") - check your modules.ini.
+L 12/06/2023 - 03:57:04: [AMXX] Plugin "mode_lasermine.amxx" failed to load: Plugin uses an unknown function (name "notify_player") - check your modules.ini.
+L 12/06/2023 - 03:57:05: [csdm_spawn_preset.amxx] Loaded 32 spawn points for map de_dust.
+L 12/06/2023 - 03:57:05: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 03:57:05: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:02:16: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:02:16: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 04:02:16: [AMXX] Plugin "main.amxx" failed to load: Plugin uses an unknown function (name "lasermine_place") - check your modules.ini.
+L 12/06/2023 - 04:02:16: [AMXX] Plugin "mode_dispenser.amxx" failed to load: Plugin uses an unknown function (name "increase_user_money") - check your modules.ini.
+L 12/06/2023 - 04:02:16: [AMXX] Plugin "mode_tesla.amxx" failed to load: Plugin uses an unknown function (name "set_user_money") - check your modules.ini.
+L 12/06/2023 - 04:02:16: [AMXX] Plugin "mode_lasermine.amxx" failed to load: Plugin uses an unknown function (name "notify_player") - check your modules.ini.
+L 12/06/2023 - 04:02:16: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:02:16: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:02:17: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:04:12: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:04:12: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 04:04:12: [AMXX] Plugin "mode_dispenser.amxx" failed to load: Plugin uses an unknown function (name "increase_user_money") - check your modules.ini.
+L 12/06/2023 - 04:04:12: [AMXX] Plugin "mode_tesla.amxx" failed to load: Plugin uses an unknown function (name "set_user_money") - check your modules.ini.
+L 12/06/2023 - 04:04:12: [AMXX] Plugin "mode_lasermine.amxx" failed to load: Plugin uses an unknown function (name "notify_player") - check your modules.ini.
+L 12/06/2023 - 04:04:13: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:04:13: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:04:14: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:04:14: [admin.amxx] Login: "Ricky_Khats<15><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:04:14: [admin.amxx] Login: "Ricky_Khats<24><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:05:11: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:05:12: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 04:05:12: [AMXX] Plugin "mode_dispenser.amxx" failed to load: Plugin uses an unknown function (name "increase_user_money") - check your modules.ini.
+L 12/06/2023 - 04:05:12: [AMXX] Plugin "mode_tesla.amxx" failed to load: Plugin uses an unknown function (name "set_user_money") - check your modules.ini.
+L 12/06/2023 - 04:05:12: [AMXX] Plugin "mode_lasermine.amxx" failed to load: Plugin uses an unknown function (name "notify_player") - check your modules.ini.
+L 12/06/2023 - 04:05:12: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:05:12: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:05:13: [admin.amxx] Login: "Ricky_Khats<24><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:11:59: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 04:11:59: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 04:11:59: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 04:11:59: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 04:11:59: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 04:12:00: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:12:00: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 04:12:00: [AMXX] Plugin "mode_dispenser.amxx" failed to load: Plugin uses an unknown function (name "increase_user_money") - check your modules.ini.
+L 12/06/2023 - 04:12:00: [AMXX] Plugin "mode_tesla.amxx" failed to load: Plugin uses an unknown function (name "set_user_money") - check your modules.ini.
+L 12/06/2023 - 04:12:00: [AMXX] Plugin "mode_lasermine.amxx" failed to load: Plugin uses an unknown function (name "notify_player") - check your modules.ini.
+L 12/06/2023 - 04:12:01: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:12:01: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:12:01: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 04:12:01: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 04:12:01: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 04:27:03: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 04:27:03: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 04:27:03: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 04:27:03: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 04:27:03: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 04:27:04: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:27:04: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 04:27:05: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:27:05: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:27:05: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 04:27:05: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 04:27:05: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 04:27:17: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:31:23: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:31:24: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:31:24: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:31:26: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:31:26: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:36:51: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:36:51: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:36:51: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:36:52: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:36:52: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:39:56: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:39:57: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:39:57: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:39:58: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:39:58: [admin.amxx] Login: "Ricky_Khats<3><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:42:42: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:43:59: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:44:00: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:44:00: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:44:00: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:45:50: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:45:51: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:45:51: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:45:51: [admin.amxx] Login: "Ricky_Khats<10><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:48:18: [GEOIP] Could not find GeoIP2 databases. Disabled natives.
+L 12/06/2023 - 04:48:18: [CSTRIKE] GiveDefaultItems is not available - native cs_set_no_knives has been disabled
+L 12/06/2023 - 04:48:18: [CSTRIKE] UTIL_FindEntByString is not available - native cs_find_ent_by_class() has been disabled
+L 12/06/2023 - 04:48:18: [CSTRIKE] AddEntityHashValue or RemoveEntityHashValue is not available - native cs_set_ent_class() has been disabled
+L 12/06/2023 - 04:48:18: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 12/06/2023 - 04:48:19: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:48:19: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:48:19: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:48:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE" lang "ru")
+L 12/06/2023 - 04:48:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang3082\\ f0\\ fs16 \n\\ par }" lang "ru")
+L 12/06/2023 - 04:48:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\Sentry.txt" key "*/" lang "ru")
+L 12/06/2023 - 04:48:24: [admin.amxx] Login: "Ricky_Khats<1><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:49:40: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:49:53: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:49:54: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:49:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:49:55: [admin.amxx] Login: "Ricky_Khats<4><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:50:35: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:50:36: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:50:36: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:50:46: [admin.amxx] Login: "Ricky_Khats<9><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:51:25: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:51:26: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:51:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:51:27: [admin.amxx] Login: "Ricky_Khats<9><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:51:54: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:51:54: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:51:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:51:55: [admin.amxx] Login: "Ricky_Khats<9><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:55:13: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:55:14: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:55:14: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:55:14: [admin.amxx] Login: "Ricky_Khats<9><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:55:39: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 04:59:22: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 04:59:23: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 04:59:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 04:59:24: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:01:11: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:01:12: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:01:12: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:01:13: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:01:28: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:01:29: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:01:29: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:01:30: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:06:10: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:06:11: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:06:11: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:06:11: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:06:40: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:06:40: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:06:40: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:06:41: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:10:26: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:10:26: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:10:26: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:10:27: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:11:46: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:11:47: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:11:47: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:11:47: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:16:24: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:16:25: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:16:25: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:16:25: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:23:52: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 05:23:53: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 05:23:53: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:23:53: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:41:53: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/06/2023 - 05:42:08: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_militia
+L 12/06/2023 - 05:44:02: -------- Mapchange to cs_militia --------
+L 12/06/2023 - 05:44:03: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_militia.
+L 12/06/2023 - 05:44:03: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:44:03: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 05:53:22: -------- Mapchange to cs_militia --------
+L 12/06/2023 - 05:53:23: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_militia.
+L 12/06/2023 - 05:53:23: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 05:53:24: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:10:57: -------- Mapchange to cs_militia --------
+L 12/06/2023 - 06:10:57: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 06:10:58: [csdm_spawn_preset.amxx] Loaded 20 spawn points for map cs_militia.
+L 12/06/2023 - 06:10:58: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 06:10:59: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:10:59: [admin.amxx] Login: "Ricky_Khats<16><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:10:59: [admin.amxx] Login: "Ricky_Khats<39><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:11:43: -------- Mapchange to de_dust2 --------
+L 12/06/2023 - 06:11:43: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 06:11:44: [csdm_spawn_preset.amxx] Loaded 40 spawn points for map de_dust2.
+L 12/06/2023 - 06:11:44: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 06:11:44: [admin.amxx] Login: "Ricky_Khats<39><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:13:33: [admin.amxx] Login: "Ricky_Khats<44><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:16:59: [admin.amxx] Login: "Ricky_Khats<45><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:29:44: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 12/06/2023 - 06:29:59: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 12/06/2023 - 06:30:32: [admin.amxx] Login: "Ricky_Khats<46><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
+L 12/06/2023 - 06:31:53: -------- Mapchange to de_chateau --------
+L 12/06/2023 - 06:31:53: An error occurred in plugin_natives. This is dangerous!
+L 12/06/2023 - 06:31:54: [csdm_spawn_preset.amxx] Loaded 35 spawn points for map de_chateau.
+L 12/06/2023 - 06:31:54: [csdm_main.amxx] CSDM spawn mode set to preset
+L 12/06/2023 - 06:31:55: [admin.amxx] Login: "Ricky_Khats<46><STEAM_0:0:541566080><>" became an admin (account "Ricky_Khats") (access "abcdefghijklmnopqrstu") (address "192.168.0.13")
